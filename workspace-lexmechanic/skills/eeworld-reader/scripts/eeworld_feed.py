@@ -99,7 +99,14 @@ def run_curl(
                 CURL_USER_AGENT,
                 f"{R_JINA_PREFIX}{target_url}",
             ]
-            proc = subprocess.run(cmd, check=False, capture_output=True, text=True)
+            proc = subprocess.run(
+                cmd,
+                check=False,
+                capture_output=True,
+                text=True,
+                encoding="utf-8",
+                errors="replace",
+            )
 
             if proc.returncode == 0 and proc.stdout.strip():
                 text = proc.stdout
