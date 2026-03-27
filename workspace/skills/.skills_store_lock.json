@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "nano-banana-pro": {
+      "name": "Nano Banana Pro",
+      "zip_url": "https://skillhub-1388575217.cos.ap-guangzhou.myqcloud.com/skills/nano-banana-pro.zip",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "news-aggregator": {
+      "name": "News Aggregator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=news-aggregator",
+      "source": "skillhub",
+      "version": "1.0.3"
+    }
+  }
+}

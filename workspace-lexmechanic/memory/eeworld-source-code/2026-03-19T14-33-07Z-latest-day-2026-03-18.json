@@ -1,0 +1,334 @@
+{
+  "mode": "latest-day",
+  "source": "http://www.eeworld.com.cn/latestnews",
+  "dates": [
+    "2026-03-18"
+  ],
+  "fetched_at": "2026-03-19T14:33:07.302967+00:00",
+  "max_pages": 5,
+  "profile": "/home/node/.openclaw/workspace/memory/eeworld-reading-profile.json",
+  "total_items": 31,
+  "ranked": [
+    {
+      "category": "车用传感器/MCU",
+      "category_url": "http://news.eeworld.com.cn/qcdz/cgq/",
+      "title": "雨雾天下毫米波雷达与激光雷达谁更具优势？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718965.html",
+      "date": "2026-03-18",
+      "score": 2.8,
+      "matched_keywords": [
+        "射频",
+        "嵌入式系统",
+        "车用传感器"
+      ]
+    },
+    {
+      "category": "车用传感器/MCU",
+      "category_url": "http://news.eeworld.com.cn/qcdz/cgq/",
+      "title": "禾赛与小牛电动签订FTX激光雷达定点，共同探索两轮车智能安全新范式",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718949.html",
+      "date": "2026-03-18",
+      "score": 2.0,
+      "matched_keywords": [
+        "嵌入式系统",
+        "车用传感器"
+      ]
+    },
+    {
+      "category": "嵌入式处理器",
+      "category_url": "http://news.eeworld.com.cn/qrs/clq/",
+      "title": "Mythic®选用Microchip旗下冠捷半导体（SST®）的memBrain™技术",
+      "url": "https://www.eeworld.com.cn/qrs/eic718890.html",
+      "date": "2026-03-18",
+      "score": 2.0,
+      "matched_keywords": [
+        "Microchip",
+        "嵌入式系统"
+      ]
+    },
+    {
+      "category": "嵌入式系统",
+      "category_url": "http://news.eeworld.com.cn/mcu/qrsxtmcu/",
+      "title": "迅为RK系列开发板SDK内核版本由5.10升级至6.1 LTS",
+      "url": "https://www.eeworld.com.cn/mcu/eic718924.html",
+      "date": "2026-03-18",
+      "score": 1.2,
+      "matched_keywords": [
+        "嵌入式系统"
+      ]
+    },
+    {
+      "category": "分立器件",
+      "category_url": "http://news.eeworld.com.cn/dygl/flqj/",
+      "title": "Vishay推出全新紧凑型高性能、高可靠性功率电感器",
+      "url": "https://www.eeworld.com.cn/dygl/eic718886.html",
+      "date": "2026-03-18",
+      "score": 1.2,
+      "matched_keywords": [
+        "高可靠性"
+      ]
+    },
+    {
+      "category": "信息及娱乐系统",
+      "category_url": "http://news.eeworld.com.cn/qcdz/czdmtdh/",
+      "title": "车载语音研究：可见即可说等功能爆发式增长，车外语音交互两年增长35倍",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718971.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "贸泽电子开售：面向工业、AI、医疗、数据中心等领域的Altera Agilex 5 FPGA与SoC",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718951.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "放大器",
+      "category_url": "http://news.eeworld.com.cn/mndz/fdq/",
+      "title": "被运放温漂/干扰困扰？这款双通道精密运放卷出新高度—CBM8336",
+      "url": "https://www.eeworld.com.cn/mndz/eic718959.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "行业动态",
+      "category_url": "http://news.eeworld.com.cn/qcdz/hydt/",
+      "title": "精密感知，安全闪充：比亚迪自研BMS AFE芯片护航二代刀片电池",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718964.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "转换器",
+      "category_url": "http://news.eeworld.com.cn/dygl/zhq/",
+      "title": "看不见的振铃：利用缓冲电路抑制降压转换器中的寄生效应",
+      "url": "https://www.eeworld.com.cn/dygl/eic718888.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "行业动态",
+      "category_url": "http://news.eeworld.com.cn/qcdz/hydt/",
+      "title": "消息称蔚来神玑芯片正积极接触多家头部车企，含零跑、吉利等",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718938.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "传动与执行",
+      "category_url": "http://news.eeworld.com.cn/gykz/CDYZX/",
+      "title": "意法半导体发布75V STSPIN电机驱动芯片，方便用户扩展工业电机驱动器设计",
+      "url": "https://www.eeworld.com.cn/gykz/eic718955.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "物联网与云计算",
+      "category_url": "http://news.eeworld.com.cn/wltx/wlw/",
+      "title": "弥合带宽缺口，高性能AI推理如何受益于GDDR7？",
+      "url": "https://www.eeworld.com.cn/wltx/eic718946.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/gykz/zhzx/",
+      "title": "尼得科精密检测科技株式会社将参展SEMICON China 2026",
+      "url": "https://www.eeworld.com.cn/gykz/eic718942.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "其他技术",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qt/",
+      "title": "小米HAD辅助驾驶全新升级XLA认知大模型",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718969.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "宇树科技在工业领域试点落地 希望未来机器人自己生产自己",
+      "url": "https://www.eeworld.com.cn/robot/eic718878.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "奥芯明将亮相SEMICON China 2026，先进封装赋能智能芯片变革",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718940.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "EDA与IP",
+      "category_url": "http://news.eeworld.com.cn/manufacture/icsj/",
+      "title": "国内首款Agentic AI自研EDA平台，合见工软发布智能体UDA 2.0重塑芯片设计范式",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718884.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "车身电子",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qccsdz/",
+      "title": "国产HUD第一股将诞生，26亿估值IPO背后的赛道变局",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718967.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "内存缺货常态化！SK集团会长：DRAM短缺将持续至2030年",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718881.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "全球首个“太空AI+地面机器人”闭环完成！",
+      "url": "https://www.eeworld.com.cn/robot/eic718966.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "中国并联机器人市场稳增向前，市场格局内资主导，区域龙头凸显",
+      "url": "https://www.eeworld.com.cn/robot/eic718970.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "其他技术",
+      "category_url": "http://news.eeworld.com.cn/dygl/qtyy/",
+      "title": "东芝推出用于车载设备的光伏输出光耦",
+      "url": "https://www.eeworld.com.cn/dygl/eic718961.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "三星电子：HBM5 与 HBM5E 将分别升级基础裸片与 DRAM 的制程",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718879.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "PC互联网",
+      "category_url": "http://news.eeworld.com.cn/szds/entertainment/",
+      "title": "​英特尔酷睿Ultra 200HX Plus登场，硬核性能，由此焕新",
+      "url": "https://www.eeworld.com.cn/szds/eic718953.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "车身电子",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qccsdz/",
+      "title": "​GRAS 45BD AutoKEMAR 重磅发布 汽车座舱测试专用人工头",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718962.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "其他技术",
+      "category_url": "http://news.eeworld.com.cn/Test_and_measurement/other/",
+      "title": "PCB制造与组装中离子污染控制的关键要点",
+      "url": "https://www.eeworld.com.cn/Test_and_measurement/eic718928.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/gykz/zhzx/",
+      "title": "Gartner预测，在AI组合中纳入中国 LLM 和多模态模型的全球企业占比",
+      "url": "https://www.eeworld.com.cn/gykz/eic718957.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "行业动态",
+      "category_url": "http://news.eeworld.com.cn/qcdz/hydt/",
+      "title": "GTC2026 | 比亚迪、吉利、五十铃和日产采用 NVIDIA DRIVE Hyperion 开发 L4 级自动驾驶汽车",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718943.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/wltx/zhzx/",
+      "title": "Akamai 推出 AI Grid 智能编排，实现覆盖 4,400 个边缘站点的分布式推理",
+      "url": "https://www.eeworld.com.cn/wltx/eic718952.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "行业动态",
+      "category_url": "http://news.eeworld.com.cn/qcdz/hydt/",
+      "title": "2026年1月ADAS供应商装机量排行榜：国产厂商市占率持续上升",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718968.html",
+      "date": "2026-03-18",
+      "score": 0.0,
+      "matched_keywords": []
+    }
+  ],
+  "fetched_pages": [
+    {
+      "page": 1,
+      "url": "http://www.eeworld.com.cn/latestnews",
+      "item_count": 50,
+      "dates": [
+        "2026-03-18",
+        "2026-03-19"
+      ]
+    },
+    {
+      "page": 2,
+      "url": "http://www.eeworld.com.cn/latestnews/2",
+      "item_count": 50,
+      "dates": [
+        "2026-03-17",
+        "2026-03-18"
+      ]
+    },
+    {
+      "page": 3,
+      "url": "http://www.eeworld.com.cn/latestnews/3",
+      "item_count": 50,
+      "dates": [
+        "2026-03-17"
+      ]
+    }
+  ]
+}

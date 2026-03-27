@@ -1,0 +1,373 @@
+{
+  "mode": "latest-day",
+  "source": "http://www.eeworld.com.cn/latestnews",
+  "dates": [
+    "2026-03-20"
+  ],
+  "fetched_at": "2026-03-21T06:52:59.806Z",
+  "fetch_method": "browser-live",
+  "total_items": 34,
+  "ranked": [
+    {
+      "date": "2026-03-20",
+      "category": "网络通信",
+      "title": "TI 携手 NVIDIA 推出面向下一代 AI 数据中心的完整 800V DC 电源架构",
+      "url": "https://www.eeworld.com.cn/dygl/eic719121.html",
+      "score": 9.100000000000001,
+      "matched_keywords": [
+        "电源",
+        "TI",
+        "NVIDIA",
+        "数据中心"
+      ],
+      "read": true,
+      "read_at": "2026-03-23T04:27:25.659494+00:00",
+      "interested": true,
+      "interest_note": "C:\\Users\\Qiang\\.openclaw\\workspace-lexmechanic\\memory\\interests\\TI 携手 NVIDIA 推出面向下一代 AI 数据中心的完整 800V DC 电源架构+2026-03-21T07-36-18Z.md"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "消费电子",
+      "title": "德州仪器 (TI) 扩展微控制器产品组合及软件生态系统，助力边缘 AI 在各种器件中落地",
+      "url": "https://www.eeworld.com.cn/qrs/eic719118.html",
+      "score": 8.8,
+      "matched_keywords": [
+        "边缘 AI",
+        "TI",
+        "德州仪器",
+        "控制器"
+      ],
+      "read": true,
+      "read_at": "2026-03-23T04:27:25.731994+00:00",
+      "interested": true,
+      "interest_note": "C:\\Users\\Qiang\\.openclaw\\workspace-lexmechanic\\memory\\interests\\德州仪器 (TI) 扩展微控制器产品组合及软件生态系统，助力边缘 AI 在各种器件中落地+2026-03-21T07-49-01Z.md"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "车用传感器/MCU",
+      "title": "TouchNetix推出适用于汽车的触控与压力感应控制器AX24A",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719158.html",
+      "score": 8,
+      "matched_keywords": [
+        "MCU",
+        "TI",
+        "控制器",
+        "汽车"
+      ],
+      "read": true,
+      "read_at": "2026-03-23T04:27:25.806494+00:00"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "行业动态",
+      "title": "瑞萨开发多域ECU SoC关键技术 强化芯片组与功能安全",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719162.html",
+      "score": 5.800000000000001,
+      "matched_keywords": [
+        "SoC",
+        "瑞萨",
+        "ECU"
+      ],
+      "read": true,
+      "read_at": "2026-03-23T04:27:25.879506+00:00",
+      "interested": true,
+      "interest_note": "C:\\Users\\Qiang\\.openclaw\\workspace-lexmechanic\\memory\\interests\\瑞萨开发多域ECU SoC关键技术 强化芯片组与功能安全+2026-03-22T08-56-19Z.md"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "其他技术",
+      "title": "瑞萨推出3nm可配置TCAM 面向汽车SoC应用",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719161.html",
+      "score": 5.800000000000001,
+      "matched_keywords": [
+        "SoC",
+        "瑞萨",
+        "汽车"
+      ],
+      "read": true,
+      "read_at": "2026-03-23T04:27:25.953031+00:00"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "车用传感器/MCU",
+      "title": "意法半导体发布Stellar P3E 汽车MCU内置AI加速",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719160.html",
+      "score": 5.800000000000001,
+      "matched_keywords": [
+        "MCU",
+        "AI加速",
+        "汽车"
+      ],
+      "read": true,
+      "read_at": "2026-03-23T04:27:26.028546+00:00"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "行业动态",
+      "title": "本田与Mythic合作开发面向SDV的汽车SoC",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719159.html",
+      "score": 5,
+      "matched_keywords": [
+        "SoC",
+        "汽车",
+        "SDV"
+      ],
+      "read": true,
+      "read_at": "2026-03-24T13:15:57.103940+00:00"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "车用传感器/MCU",
+      "title": "多车环境下车载毫米波雷达是否会相互干扰？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719150.html",
+      "score": 5,
+      "matched_keywords": [
+        "MCU",
+        "雷达",
+        "车载"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "category": "电源模块",
+      "title": "Microchip推出全新BZPACK mSiC®功率模块，专为恶劣环境下高要求应用而设计",
+      "url": "https://www.eeworld.com.cn/dygl/eic719125.html",
+      "score": 5,
+      "matched_keywords": [
+        "功率模块",
+        "电源"
+      ],
+      "read": true,
+      "read_at": "2026-03-24T13:15:08.550795+00:00",
+      "interested": true,
+      "interest_note": "C:\\Users\\Qiang\\.openclaw\\workspace-lexmechanic\\memory\\interests\\2026-03-20.md"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "分立器件",
+      "title": "Bourns 扩展 Multifuse®MF-LSMF 系列 PPTC 可复式保险丝产品线",
+      "url": "https://www.eeworld.com.cn/dygl/eic719144.html",
+      "score": 4.7,
+      "matched_keywords": [
+        "分立器件",
+        "TI"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "category": "行业动态",
+      "title": "UWB在汽车上的新用途：从“数字钥匙”到“安全雷达”",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719152.html",
+      "score": 4.199999999999999,
+      "matched_keywords": [
+        "汽车",
+        "雷达",
+        "UWB"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "category": "车用传感器/MCU",
+      "title": "ams OSRAM发布AS5173磁位置传感器 强化底盘位置感知",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719155.html",
+      "score": 3.6,
+      "matched_keywords": [
+        "MCU",
+        "底盘"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "category": "车身电子",
+      "title": "Diodes推出高效多相SPI升压控制器 助力实现稳健、灵活的汽车前大灯系统",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719164.html",
+      "score": 3.6,
+      "matched_keywords": [
+        "控制器",
+        "汽车"
+      ],
+      "read": true,
+      "read_at": "2026-03-24T13:27:50.566072+00:00"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "底盘电子",
+      "title": "通用汽车申请触摸屏方向盘智能转向系统专利",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719154.html",
+      "score": 2.8,
+      "matched_keywords": [
+        "汽车",
+        "底盘"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "category": "分立器件",
+      "title": "Vishay推出标准厚膜片式电阻，兼具耐硫性能和长期稳定性",
+      "url": "https://www.eeworld.com.cn/dygl/eic719102.html",
+      "score": 2.5,
+      "matched_keywords": [
+        "分立器件"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "category": "总线与连接",
+      "title": "混合电压电动汽车架构中如何处理连接器接口的阻抗失配？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719151.html",
+      "score": 1.4,
+      "matched_keywords": [
+        "汽车"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "category": "其他技术",
+      "title": "通用汽车申请多车串联充电系统专利",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719165.html",
+      "score": 1.4,
+      "matched_keywords": [
+        "汽车"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "category": "信息及娱乐系统",
+      "title": "LG电子发布集成式车载信息服务模块 迈向AIDV",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719157.html",
+      "score": 1.4,
+      "matched_keywords": [
+        "车载"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "category": "动力系统",
+      "title": "-70℃仍可工作、续航有望翻倍！我国锂电池技术获重要突破",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719153.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "机器人",
+      "title": "2025全球人形机器人出货破14500台：量产拐点已至，GaN迎来黄金发展期",
+      "url": "https://www.eeworld.com.cn/robot/eic719148.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "综合资讯",
+      "title": "别只盯着OpenClaw的Agent！它丝滑的背后，是一场硬件设计的极限挑战",
+      "url": "https://www.eeworld.com.cn/wltx/eic719120.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "机器人",
+      "title": "宾夕法尼亚大学推出HoloRadar 让机器人具备拐角感知能力",
+      "url": "https://www.eeworld.com.cn/robot/eic719156.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "行业动态",
+      "title": "从自研到外供：蔚来芯片业务分拆重组，正规划低端芯片对标地平线 J6M",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719114.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "PC互联网",
+      "title": "雷军称小米将做电脑龙虾！手机龙虾已开放测试",
+      "url": "https://www.eeworld.com.cn/szds/eic719116.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "行业动态",
+      "title": "美媒：特斯拉FSD在美遭遇调查升级，或引发大规模召回",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719108.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "市场动态",
+      "title": "摩尔斯微电子任命乔•贝德维（Joe Bedewi）为首席财务官",
+      "url": "https://www.eeworld.com.cn/manufacture/eic719107.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "市场动态",
+      "title": "曝存储巨头铠侠停产 128MB ~ 8GB 容量产品，SLC、MLC 也受影响",
+      "url": "https://www.eeworld.com.cn/manufacture/eic719112.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "动力系统",
+      "title": "奇瑞“犀牛”固态电池突破：续航1500km，5分钟充500km",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719166.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "通信与网络",
+      "title": "是德科技推出AI推理仿真平台，用于验证与优化AI基础设施",
+      "url": "https://www.eeworld.com.cn/Test_and_measurement/eic719124.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "植入式器材",
+      "title": "我国脑机接口技术新突破 用意念控制机器狗",
+      "url": "https://www.eeworld.com.cn/medical_electronics/eic719146.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "嵌入式处理器",
+      "title": "英特尔确认新驱动着色器分发功能仅支持 Xe2 及更新架构的 GPU",
+      "url": "https://www.eeworld.com.cn/qrs/eic719110.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "行业动态",
+      "title": "中高阶智驾芯片方案增长近5倍，地平线2025年营收高增57.7%",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719149.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "半导体生产",
+      "title": "ADI启用泰国新工厂，强化全球制造韧性",
+      "url": "https://www.eeworld.com.cn/manufacture/eic719105.html",
+      "score": 0,
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-20",
+      "category": "其他技术",
+      "title": "MIT提出“停车感知”导航框架 解决到达后找车位的时间黑洞",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719163.html",
+      "score": 0,
+      "matched_keywords": []
+    }
+  ],
+  "updated_at": "2026-03-24T13:27:50.566072+00:00"
+}

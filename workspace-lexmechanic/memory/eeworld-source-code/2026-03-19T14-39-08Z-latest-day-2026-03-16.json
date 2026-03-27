@@ -1,0 +1,372 @@
+{
+  "mode": "latest-day",
+  "source": "http://www.eeworld.com.cn/latestnews",
+  "dates": [
+    "2026-03-16"
+  ],
+  "fetched_at": "2026-03-19T14:39:08.493877+00:00",
+  "max_pages": 40,
+  "profile": "/home/node/.openclaw/workspace/memory/eeworld-reading-profile.json",
+  "total_items": 32,
+  "ranked": [
+    {
+      "category": "车用传感器/MCU",
+      "category_url": "http://news.eeworld.com.cn/qcdz/cgq/",
+      "title": "4D毫米波雷达是如何识别高度信息的？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718785.html",
+      "date": "2026-03-16",
+      "score": 2.8,
+      "matched_keywords": [
+        "射频",
+        "嵌入式系统",
+        "车用传感器"
+      ]
+    },
+    {
+      "category": "车用传感器/MCU",
+      "category_url": "http://news.eeworld.com.cn/qcdz/cgq/",
+      "title": "自动驾驶感知的侧向进化，激光雷达竞争的新赛道？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718784.html",
+      "date": "2026-03-16",
+      "score": 2.0,
+      "matched_keywords": [
+        "嵌入式系统",
+        "车用传感器"
+      ]
+    },
+    {
+      "category": "嵌入式系统",
+      "category_url": "http://news.eeworld.com.cn/mcu/qrsxtmcu/",
+      "title": "基于无线级联的DMX512灯光控制系统设计与实现",
+      "url": "https://www.eeworld.com.cn/mcu/eic718709.html",
+      "date": "2026-03-16",
+      "score": 2.0,
+      "matched_keywords": [
+        "射频",
+        "嵌入式系统"
+      ]
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/gykz/zhzx/",
+      "title": "贸泽开售适合边缘工业自动化应用的 Weidmuller u-control M3000和M4000可编程自动化控制器",
+      "url": "https://www.eeworld.com.cn/gykz/eic718757.html",
+      "date": "2026-03-16",
+      "score": 1.2,
+      "matched_keywords": [
+        "工业自动化"
+      ]
+    },
+    {
+      "category": "FPGA/DSP",
+      "category_url": "http://news.eeworld.com.cn/qrs/FPGA_DSP/",
+      "title": "莱迪思半导体携手EXOR International和TrustiPhi推出网络韧性参考套件",
+      "url": "https://www.eeworld.com.cn/qrs/eic718791.html",
+      "date": "2026-03-16",
+      "score": 1.2,
+      "matched_keywords": [
+        "DSP"
+      ]
+    },
+    {
+      "category": "嵌入式系统",
+      "category_url": "http://news.eeworld.com.cn/gykz/qrsxt/",
+      "title": "英飞凌推出基于PSOC™ Control C3微控制器的ModusToolbox™电源套件",
+      "url": "https://www.eeworld.com.cn/gykz/eic718731.html",
+      "date": "2026-03-16",
+      "score": 1.2,
+      "matched_keywords": [
+        "嵌入式系统"
+      ]
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "港科大研发双模态触觉传感器阵列，让机器人拥有人类般“指尖触觉”",
+      "url": "https://www.eeworld.com.cn/robot/eic718780.html",
+      "date": "2026-03-16",
+      "score": 0.8,
+      "matched_keywords": [
+        "车用传感器"
+      ]
+    },
+    {
+      "category": "通信与网络",
+      "category_url": "http://news.eeworld.com.cn/Test_and_measurement/communication/",
+      "title": "无线测试在汽车设计中的关键性解析",
+      "url": "https://www.eeworld.com.cn/Test_and_measurement/eic718723.html",
+      "date": "2026-03-16",
+      "score": 0.8,
+      "matched_keywords": [
+        "射频"
+      ]
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/MEMS/zhzx/",
+      "title": "南芯科技推出大带宽高精度集成式电流传感器，进军磁传感市场",
+      "url": "https://www.eeworld.com.cn/MEMS/eic718758.html",
+      "date": "2026-03-16",
+      "score": 0.8,
+      "matched_keywords": [
+        "车用传感器"
+      ]
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/qrs/zhzx/",
+      "title": "Ceva NeuPro-Nano NPU 在 2026 年嵌入式世界大会上 荣获人工智能奖",
+      "url": "https://www.eeworld.com.cn/qrs/eic718748.html",
+      "date": "2026-03-16",
+      "score": 0.8,
+      "matched_keywords": [
+        "嵌入式系统"
+      ]
+    },
+    {
+      "category": "信号源与示波器",
+      "category_url": "http://news.eeworld.com.cn/Test_and_measurement/signal/",
+      "title": "高压探头零点偏移现象的诊断与分析",
+      "url": "https://www.eeworld.com.cn/Test_and_measurement/eic718710.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "行业动态",
+      "category_url": "http://news.eeworld.com.cn/qcdz/hydt/",
+      "title": "采埃孚与SiliconAuto推出自动驾驶实时I/O接口芯片",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718787.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "超过台积电！马斯克正式宣布建造世界最大晶圆工厂",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718738.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "贞光科技代理品牌 | 紫光同芯车规级eSIM：助力车企降本增效，加速全球布局",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718778.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "其他技术",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qt/",
+      "title": "自动驾驶L2到L3相较L3到L5，为什么更难？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718786.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "腾讯、字节、京东....中国最有钱的大厂，都在投哪些机器人公司？",
+      "url": "https://www.eeworld.com.cn/robot/eic718788.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/gykz/zhzx/",
+      "title": "汇聚多行业装配与自动化解决方案，赋能生产制造降本增效 AHTE 2026观众预登记开启！",
+      "url": "https://www.eeworld.com.cn/gykz/eic718740.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "动力系统",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qcdldz/",
+      "title": "欧阳明高：固态电池不用等，电动车已很好，产业化还需3-5年",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718782.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "底盘电子",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qcdpdz/",
+      "title": "智能底盘测试破局指南:从动态路试到台架验证",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718726.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "总线与连接",
+      "category_url": "http://news.eeworld.com.cn/qcdz/zxylj/",
+      "title": "意法半导体引领超宽带技术在汽车及智能设备应用领域迈入新时代",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718746.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/gykz/zhzx/",
+      "title": "尼得科电力能源将亮相第二十六届中国国际石油石化技术装备展览会（CIPPE）",
+      "url": "https://www.eeworld.com.cn/gykz/eic718756.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "动力系统",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qcdldz/",
+      "title": "宁德时代：首款“钠离子电池”正式量产，高效、安全、耐低温！",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718781.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "力积电宣布完成向美光出售铜锣 P5 晶圆厂交易",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718736.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/mndz/ZHZX/",
+      "title": "准确检测大电流",
+      "url": "https://www.eeworld.com.cn/mndz/eic718743.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "三星回应内存短缺：预计2028年结束",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718776.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "​地瓜机器人完成1.2亿美元B1轮融资，加速打造具身智能原生技术底座",
+      "url": "https://www.eeworld.com.cn/robot/eic718729.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "分立器件",
+      "category_url": "http://news.eeworld.com.cn/dygl/flqj/",
+      "title": "Vishay推出额定电压550 V和600 V的193 PUR-SI系列牛角式功率铝电解电容器",
+      "url": "https://www.eeworld.com.cn/dygl/eic718745.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/wltx/zhzx/",
+      "title": "Nordic Semiconductor 巩固 nRF54L 系列在超低功耗边缘人工智能领域的领先地位",
+      "url": "https://www.eeworld.com.cn/wltx/eic718733.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "高速串行测试",
+      "category_url": "http://news.eeworld.com.cn/Test_and_measurement/Serial_Measurements/",
+      "title": "Bamtone H系列TDR阻抗测试仪与IPC-2141A高速电路中可控阻抗电路板设计指南",
+      "url": "https://www.eeworld.com.cn/Test_and_measurement/eic718767.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "EDA与IP",
+      "category_url": "http://news.eeworld.com.cn/manufacture/icsj/",
+      "title": "Altium 在中国发布 Altium Develop -标志着其正式从传统许可证合规模式转型",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718789.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "ASML营收创纪录仍计划裁员1700人，员工苦等七周不知去留",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718734.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "行业动态",
+      "category_url": "http://news.eeworld.com.cn/qcdz/hydt/",
+      "title": "2026 AI重塑智能汽车：智能驾驶行业深度分析",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718783.html",
+      "date": "2026-03-16",
+      "score": 0.0,
+      "matched_keywords": []
+    }
+  ],
+  "fetched_pages": [
+    {
+      "page": 1,
+      "url": "http://www.eeworld.com.cn/latestnews",
+      "item_count": 50,
+      "dates": [
+        "2026-03-18",
+        "2026-03-19"
+      ]
+    },
+    {
+      "page": 2,
+      "url": "http://www.eeworld.com.cn/latestnews/2",
+      "item_count": 50,
+      "dates": [
+        "2026-03-17",
+        "2026-03-18"
+      ]
+    },
+    {
+      "page": 3,
+      "url": "http://www.eeworld.com.cn/latestnews/3",
+      "item_count": 50,
+      "dates": [
+        "2026-03-17"
+      ]
+    },
+    {
+      "page": 4,
+      "url": "http://www.eeworld.com.cn/latestnews/4",
+      "item_count": 50,
+      "dates": [
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17"
+      ]
+    },
+    {
+      "page": 5,
+      "url": "http://www.eeworld.com.cn/latestnews/5",
+      "item_count": 50,
+      "dates": [
+        "2026-03-12",
+        "2026-03-13"
+      ]
+    }
+  ]
+}

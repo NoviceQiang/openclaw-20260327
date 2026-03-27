@@ -1,0 +1,900 @@
+{
+  "mode": "latest-day",
+  "source": "http://www.eeworld.com.cn/latestnews",
+  "dates": [
+    "2026-03-17"
+  ],
+  "fetched_at": "2026-03-19T14:39:21.997614+00:00",
+  "max_pages": 40,
+  "profile": "/home/node/.openclaw/workspace/memory/eeworld-reading-profile.json",
+  "total_items": 89,
+  "ranked": [
+    {
+      "category": "车用传感器/MCU",
+      "category_url": "http://news.eeworld.com.cn/qcdz/cgq/",
+      "title": "量产为王！激光雷达「千线」时代，谁在领跑？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718865.html",
+      "date": "2026-03-17",
+      "score": 2.0,
+      "matched_keywords": [
+        "嵌入式系统",
+        "车用传感器"
+      ]
+    },
+    {
+      "category": "车用传感器/MCU",
+      "category_url": "http://news.eeworld.com.cn/qcdz/cgq/",
+      "title": "汽车ECU内存资源解析：从核心概念到评估实践",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718866.html",
+      "date": "2026-03-17",
+      "score": 2.0,
+      "matched_keywords": [
+        "嵌入式系统",
+        "车用传感器"
+      ],
+      "read": true,
+      "read_at": "2026-03-23T09:03:31.400797+00:00",
+      "interested": true,
+      "interest_note": "C:\\Users\\Qiang\\.openclaw\\workspace-lexmechanic\\memory\\interests\\2026-03-17.md"
+    },
+    {
+      "category": "嵌入式系统",
+      "category_url": "http://news.eeworld.com.cn/mcu/qrsxtmcu/",
+      "title": "LoRa、LoRaWAN、NB-IoT与4G DTU技术对比及工业无线方案选型分析",
+      "url": "https://www.eeworld.com.cn/mcu/eic718833.html",
+      "date": "2026-03-17",
+      "score": 2.0,
+      "matched_keywords": [
+        "射频",
+        "嵌入式系统"
+      ]
+    },
+    {
+      "category": "车用传感器/MCU",
+      "category_url": "http://news.eeworld.com.cn/qcdz/cgq/",
+      "title": "L4无人驾驶全面升级，速腾聚创数字化激光雷达如何成行业标配？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718867.html",
+      "date": "2026-03-17",
+      "score": 2.0,
+      "matched_keywords": [
+        "嵌入式系统",
+        "车用传感器"
+      ]
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "机器人通信协议EtherCAT与CAN的选型指南",
+      "url": "https://www.eeworld.com.cn/robot/eic718357.html",
+      "date": "2026-03-17",
+      "score": 1.2,
+      "matched_keywords": [
+        "EtherCAT"
+      ]
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "意法半导体与Calumino合作推出边缘AI隐私优先摄像头",
+      "url": "https://www.eeworld.com.cn/robot/eic718342.html",
+      "date": "2026-03-17",
+      "score": 1.2,
+      "matched_keywords": [
+        "边缘AI"
+      ]
+    },
+    {
+      "category": "嵌入式系统",
+      "category_url": "http://news.eeworld.com.cn/gykz/qrsxt/",
+      "title": "恩智浦与英伟达携手推出面向先进物理AI的创新方案",
+      "url": "https://www.eeworld.com.cn/gykz/eic718808.html",
+      "date": "2026-03-17",
+      "score": 1.2,
+      "matched_keywords": [
+        "嵌入式系统"
+      ]
+    },
+    {
+      "category": "驱动",
+      "category_url": "http://news.eeworld.com.cn/dygl/bgqd/",
+      "title": "Vishay采用行业标准SOT-227封装的1200 V SiC MOSFET功率模块提升功率效率",
+      "url": "https://www.eeworld.com.cn/dygl/eic718803.html",
+      "date": "2026-03-17",
+      "score": 1.2,
+      "matched_keywords": [
+        "SiC MOSFET"
+      ]
+    },
+    {
+      "category": "FPGA/DSP",
+      "category_url": "http://news.eeworld.com.cn/qrs/FPGA_DSP/",
+      "title": "DC到3.2GHz采样率！PXI平台+开放FPGA赋能，我们打造了一款“软件定义”的锁相放大器",
+      "url": "https://www.eeworld.com.cn/qrs/eic718863.html",
+      "date": "2026-03-17",
+      "score": 1.2,
+      "matched_keywords": [
+        "DSP"
+      ]
+    },
+    {
+      "category": "嵌入式系统",
+      "category_url": "http://news.eeworld.com.cn/mcu/qrsxtmcu/",
+      "title": "AI如何重构互联网与物联网的融合边界",
+      "url": "https://www.eeworld.com.cn/mcu/eic718832.html",
+      "date": "2026-03-17",
+      "score": 1.2,
+      "matched_keywords": [
+        "嵌入式系统"
+      ]
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "美新半导体与天奇银河机器人达成合作，共促智能机器人在传感器制造领域的应用",
+      "url": "https://www.eeworld.com.cn/robot/eic718346.html",
+      "date": "2026-03-17",
+      "score": 0.8,
+      "matched_keywords": [
+        "车用传感器"
+      ]
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "广东第一会聚焦华为8800亿规模与速腾30万机器人激光雷达，科技双龙头瞩目",
+      "url": "https://www.eeworld.com.cn/robot/eic718330.html",
+      "date": "2026-03-17",
+      "score": 0.8,
+      "matched_keywords": [
+        "车用传感器"
+      ]
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "基于恩智浦MCU的人形机器人灵巧手解决方案",
+      "url": "https://www.eeworld.com.cn/robot/eic718353.html",
+      "date": "2026-03-17",
+      "score": 0.8,
+      "matched_keywords": [
+        "嵌入式系统"
+      ]
+    },
+    {
+      "category": "工业电子",
+      "category_url": "http://news.eeworld.com.cn/qrs/gydz/",
+      "title": "国民技术发布N32H49x系列MCU：以澎湃性能与全链路可靠赋能工业控制、储能与光通信",
+      "url": "https://www.eeworld.com.cn/qrs/eic718834.html",
+      "date": "2026-03-17",
+      "score": 0.8,
+      "matched_keywords": [
+        "嵌入式系统"
+      ]
+    },
+    {
+      "category": "网络通信",
+      "category_url": "http://news.eeworld.com.cn/dygl/wltx/",
+      "title": "ROHM推出超小型无线供电芯片组",
+      "url": "https://www.eeworld.com.cn/dygl/eic718828.html",
+      "date": "2026-03-17",
+      "score": 0.8,
+      "matched_keywords": [
+        "射频"
+      ]
+    },
+    {
+      "category": "其他技术",
+      "category_url": "http://news.eeworld.com.cn/Test_and_measurement/other/",
+      "title": "高低温试验箱维修与保养：保障环境试验设备全生命周期健康管理",
+      "url": "https://www.eeworld.com.cn/Test_and_measurement/eic718835.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "植入式器材",
+      "category_url": "http://news.eeworld.com.cn/medical_electronics/implanted/",
+      "title": "高位截瘫女子植入脑机1年后重新控制双手：能流畅刷手机了",
+      "url": "https://www.eeworld.com.cn/medical_electronics/eic718798.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "验证AI大脑进展：高盛称机器人硬件突破显著，宇数科技2026年出货量目标超万台",
+      "url": "https://www.eeworld.com.cn/robot/eic718345.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "新能源",
+      "category_url": "http://news.eeworld.com.cn/newenergy/",
+      "title": "首航新能源获Wood Mackenzie评为全球A级逆变器厂商",
+      "url": "https://www.eeworld.com.cn/newenergy/eic716568.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "迈向具身智能的“PyTorch时刻”：还需哪些关键突破？",
+      "url": "https://www.eeworld.com.cn/robot/eic718347.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "荣耀MWC2026三大技术布局：折叠屏、机器人手机与人形机器人",
+      "url": "https://www.eeworld.com.cn/robot/eic718329.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "车身电子",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qccsdz/",
+      "title": "英飞凌与斯巴鲁携手合作提升高级驾驶辅助系统的实时性能，进一步提高驾驶安全性",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718806.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/wltx/zhzx/",
+      "title": "英特尔® 至强® 6作主控处理器，擎动NVIDIA DGX Rubin NVL8系统",
+      "url": "https://www.eeworld.com.cn/wltx/eic718856.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "新能源",
+      "category_url": "http://news.eeworld.com.cn/newenergy/",
+      "title": "英威腾与越南DAT集团达成战略合作",
+      "url": "https://www.eeworld.com.cn/newenergy/eic718839.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "行业动态",
+      "category_url": "http://news.eeworld.com.cn/qcdz/hydt/",
+      "title": "自动驾驶又提速了？英伟达在GTC 2026放出一套“全家桶”方案",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718870.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "纳芯微全系列产品在工业控制领域的解决方案与应用",
+      "url": "https://www.eeworld.com.cn/robot/eic718348.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "立讯精密供应商在北交所成功过会",
+      "url": "https://www.eeworld.com.cn/robot/eic718320.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "存储技术",
+      "category_url": "http://news.eeworld.com.cn/xfdz/ccjs/",
+      "title": "突破 HBM 容量限制：铠侠宣布推出“超高 IOPS SSD”产品，让 GPU 直连闪存",
+      "url": "https://www.eeworld.com.cn/xfdz/eic718799.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "行业动态",
+      "category_url": "http://news.eeworld.com.cn/qcdz/hydt/",
+      "title": "比亚迪、吉利、五十铃和日产采用 NVIDIA DRIVE Hyperion 开发 L4 级自动驾驶汽车",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718851.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "核心板 IM1-707：破解具身机器人小脑选型难题",
+      "url": "https://www.eeworld.com.cn/robot/eic718339.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "机器人热管理系统解决方案",
+      "url": "https://www.eeworld.com.cn/robot/eic718334.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "机器人成为熟练工：雷军与优必选的共同愿景",
+      "url": "https://www.eeworld.com.cn/robot/eic718322.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "半导体生产",
+      "category_url": "http://news.eeworld.com.cn/manufacture/bdtsc/",
+      "title": "曝三星计划在美国得州泰勒建立第二座芯片厂，规模与第一工厂相当",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718859.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "春晚“入侵”现象背后：人形机器人步入产业化元年",
+      "url": "https://www.eeworld.com.cn/robot/eic718331.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "拓斯达发布四足机器狗“星仔”，释放场景拓展新信号",
+      "url": "https://www.eeworld.com.cn/robot/eic718327.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "宽禁带半导体",
+      "category_url": "http://news.eeworld.com.cn/dygl/wbg/",
+      "title": "意法半导体新MasterGaN功率芯片整合设计灵活性和先进GaN技术",
+      "url": "https://www.eeworld.com.cn/dygl/eic718812.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "新能源",
+      "category_url": "http://news.eeworld.com.cn/newenergy/",
+      "title": "思格166kW逆变器：以增效降本保障工商业光伏稳健收益",
+      "url": "https://www.eeworld.com.cn/newenergy/eic717476.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "德州仪器助推人形机器人实现规模化应用",
+      "url": "https://www.eeworld.com.cn/robot/eic718337.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "总线与连接",
+      "category_url": "http://news.eeworld.com.cn/qcdz/zxylj/",
+      "title": "引领汽车通信接口迈入48V时代，思瑞浦48V系统LIN收发器TPT1621Q赋能全新架构车载互联",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718868.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "广汽集团创立具身智能机器人公司慧仑科技",
+      "url": "https://www.eeworld.com.cn/robot/eic718341.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "新能源",
+      "category_url": "http://news.eeworld.com.cn/newenergy/",
+      "title": "年度光伏逆变器八大排行榜出炉：224GW市场聚焦阳光、华为等领先企业",
+      "url": "https://www.eeworld.com.cn/newenergy/eic716876.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/gykz/zhzx/",
+      "title": "尼得科精密检测科技将亮相CPCA Show 2026",
+      "url": "https://www.eeworld.com.cn/gykz/eic718825.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/gykz/zhzx/",
+      "title": "尼得科电机（大连）有限公司荣耀上榜国家级绿色工厂",
+      "url": "https://www.eeworld.com.cn/gykz/eic718819.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "小鹏汽车建立行业首个人形机器人全链条量产基地",
+      "url": "https://www.eeworld.com.cn/robot/eic718343.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "其他技术",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qt/",
+      "title": "奔驰固态电池跑1200公里，宁德时代却放话两年量产，谁在画饼？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718871.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "基于NVIDIA Isaac Lab的多模态机器人学习拓展",
+      "url": "https://www.eeworld.com.cn/robot/eic718332.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "基于CSBA系列的高端电感在人形机器人设计要点分析",
+      "url": "https://www.eeworld.com.cn/robot/eic718354.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "地瓜机器人B1轮融资：机器人真正的战场在哪里？",
+      "url": "https://www.eeworld.com.cn/robot/eic718869.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "新能源",
+      "category_url": "http://news.eeworld.com.cn/newenergy/",
+      "title": "固德威携手明宇重工：光储融合降本增效，铸就能源转型典范",
+      "url": "https://www.eeworld.com.cn/newenergy/eic715784.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "新能源",
+      "category_url": "http://news.eeworld.com.cn/newenergy/",
+      "title": "固德威印度市场十年深耕，出货量突破6GW",
+      "url": "https://www.eeworld.com.cn/newenergy/eic717859.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "商汤科技智能讲解机器人首秀上海中学国际部",
+      "url": "https://www.eeworld.com.cn/robot/eic718338.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "封装测试",
+      "category_url": "http://news.eeworld.com.cn/manufacture/fzcs/",
+      "title": "台积电如何为 HPC 与 AI 时代的 2.5D/3D 先进封装重塑热管理",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718872.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "匠芯创D13x系列芯片赋能AI陪伴机器人灵动视觉创新应用",
+      "url": "https://www.eeworld.com.cn/robot/eic718352.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "行业动态",
+      "category_url": "http://news.eeworld.com.cn/qcdz/hydt/",
+      "title": "加速 L4 级自动驾驶落地：英伟达携手比亚迪、吉利等车企，提升汽车“智商”",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718801.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "利尔达多维度赋能机器人产业：酷炫与可靠并重",
+      "url": "https://www.eeworld.com.cn/robot/eic718349.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "从起点开始",
+      "url": "https://www.eeworld.com.cn/robot/eic718318.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "新能源",
+      "category_url": "http://news.eeworld.com.cn/newenergy/",
+      "title": "从安全角度重构分布式光伏底层逻辑：微型逆变器为何更适配中国市场",
+      "url": "https://www.eeworld.com.cn/newenergy/eic717429.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "人形机器人领域年初获14亿最大融资，京东、上汽、蔚来共同投资",
+      "url": "https://www.eeworld.com.cn/robot/eic718317.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "人形机器人40+关节亚毫秒级同步控制方案解析",
+      "url": "https://www.eeworld.com.cn/robot/eic718351.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "五高一低：先楫半导体核心技术引领具身智能新突破",
+      "url": "https://www.eeworld.com.cn/robot/eic718355.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "五家中国企业聚集泰国投资超21亿，制造人形机器人零件并含特斯拉核心供应商",
+      "url": "https://www.eeworld.com.cn/robot/eic718325.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "中金保时捷基金连续两轮注资通用具身智能企业无界动力",
+      "url": "https://www.eeworld.com.cn/robot/eic718324.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "中兴通讯引领具身智能机器人创新",
+      "url": "https://www.eeworld.com.cn/robot/eic718344.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "中兴通讯于MWC 2026荣膺GSMA GLOMO三项大奖",
+      "url": "https://www.eeworld.com.cn/robot/eic718333.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "两年半吸金30亿！清华系催生百亿机器人独角兽，核心联创竟突然离职？",
+      "url": "https://www.eeworld.com.cn/robot/eic718316.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "openKylin与OpenLoong携手推进具身智能产业落地",
+      "url": "https://www.eeworld.com.cn/robot/eic718358.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "Robotiq发布2F自适应夹爪触觉传感指尖，为具身智能增添触觉感知",
+      "url": "https://www.eeworld.com.cn/robot/eic718356.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "NVIDIA 携手全球机器人领导者，将物理 AI 带入现实世界",
+      "url": "https://www.eeworld.com.cn/robot/eic718821.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "信息处理",
+      "category_url": "http://news.eeworld.com.cn/gykz/xxcl/",
+      "title": "NVIDIA 携手全球工业软件巨头，将设计、工程与制造带入 AI 时代",
+      "url": "https://www.eeworld.com.cn/gykz/eic718854.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "物联网与云计算",
+      "category_url": "http://news.eeworld.com.cn/wltx/wlw/",
+      "title": "NVIDIA 推出 Vera CPU，专为代理式 AI 打造",
+      "url": "https://www.eeworld.com.cn/wltx/eic718853.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/gykz/zhzx/",
+      "title": "NVIDIA 推出 Dynamo 生产版本：广泛采用的 AI 工厂推理操作系统",
+      "url": "https://www.eeworld.com.cn/gykz/eic718847.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/medical_electronics/zhzx/",
+      "title": "NVIDIA 扩展开放模型系列，推动代理式、物理和医疗 AI 下一阶段发展",
+      "url": "https://www.eeworld.com.cn/medical_electronics/eic718845.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/qrs/zhzx/",
+      "title": "NVIDIA 成立由全球领先 AI 实验室组成的 Nemotron Coalition，推动开放前沿模型发展",
+      "url": "https://www.eeworld.com.cn/qrs/eic718840.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/gykz/zhzx/",
+      "title": "NVIDIA 宣布为 OpenClaw 社区推出 NemoClaw",
+      "url": "https://www.eeworld.com.cn/gykz/eic718849.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "NVIDIA 发布开放物理 AI 数据工厂 Blueprint，加速机器人、视觉 AI 智能体和智能汽车开发",
+      "url": "https://www.eeworld.com.cn/robot/eic718823.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/wltx/zhzx/",
+      "title": "NVIDIA 发布 Vera Rubin DSX AI Factory 参考设计和 Omniverse DSX 数字孪生 Blueprint，获得广泛行业支持",
+      "url": "https://www.eeworld.com.cn/wltx/eic718842.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/wltx/zhzx/",
+      "title": "NVIDIA 借助开放智能体开发平台，开启知识工作领域的下一次行业变革",
+      "url": "https://www.eeworld.com.cn/wltx/eic718844.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "网络传输",
+      "category_url": "http://news.eeworld.com.cn/IoT/network/",
+      "title": "NTN 技术如何落地物联网？Nordic 联合生态伙伴共话开发与实战",
+      "url": "https://www.eeworld.com.cn/IoT/eic718804.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "分立器件",
+      "category_url": "http://news.eeworld.com.cn/dygl/flqj/",
+      "title": "Littelfuse推出用于大电流、高隔离应用的CPC1343G OptoMOS®固态继电器",
+      "url": "https://www.eeworld.com.cn/dygl/eic718795.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "CTU机器人引领水泥养护室自动化上下料变革，实现效率倍增",
+      "url": "https://www.eeworld.com.cn/robot/eic718340.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "其他技术",
+      "category_url": "http://news.eeworld.com.cn/Test_and_measurement/other/",
+      "title": "Bamtone MS90金相显微镜的高效金属结构分析方法探析",
+      "url": "https://www.eeworld.com.cn/Test_and_measurement/eic718836.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "Altera确认参展Embedded World 2026",
+      "url": "https://www.eeworld.com.cn/robot/eic718335.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/Test_and_measurement/zhzx/",
+      "title": "AI算力竞赛背后，是德科技走向台前",
+      "url": "https://www.eeworld.com.cn/Test_and_measurement/eic718858.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "转换器",
+      "category_url": "http://news.eeworld.com.cn/dygl/zhq/",
+      "title": "AI浪潮下电源新挑战：解析DCDC与LDO的技术演进",
+      "url": "https://www.eeworld.com.cn/dygl/eic718861.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "ADI亮相NVIDIA GTC 2026：现场展示物理智能的实际应用",
+      "url": "https://www.eeworld.com.cn/manufacture/eic718810.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "其他技术",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qt/",
+      "title": "3月19日开启首批推送，小鹏第二代VLA真能跳过L3吗？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic718873.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "2026年，具身智能领域日投入资金不低于5亿元",
+      "url": "https://www.eeworld.com.cn/robot/eic718323.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "2026年人形机器人产业化攻坚：虹科全栈方案破解核心痛点",
+      "url": "https://www.eeworld.com.cn/robot/eic718350.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "category": "新能源",
+      "category_url": "http://news.eeworld.com.cn/newenergy/",
+      "title": "2023年1-2月光伏逆变器榜单：华为、特变、阳光等企业领衔，总装机15.9GW",
+      "url": "https://www.eeworld.com.cn/newenergy/eic718671.html",
+      "date": "2026-03-17",
+      "score": 0.0,
+      "matched_keywords": []
+    }
+  ],
+  "fetched_pages": [
+    {
+      "page": 1,
+      "url": "http://www.eeworld.com.cn/latestnews",
+      "item_count": 50,
+      "dates": [
+        "2026-03-18",
+        "2026-03-19"
+      ]
+    },
+    {
+      "page": 2,
+      "url": "http://www.eeworld.com.cn/latestnews/2",
+      "item_count": 50,
+      "dates": [
+        "2026-03-17",
+        "2026-03-18"
+      ]
+    },
+    {
+      "page": 3,
+      "url": "http://www.eeworld.com.cn/latestnews/3",
+      "item_count": 50,
+      "dates": [
+        "2026-03-17"
+      ]
+    },
+    {
+      "page": 4,
+      "url": "http://www.eeworld.com.cn/latestnews/4",
+      "item_count": 50,
+      "dates": [
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17"
+      ]
+    },
+    {
+      "page": 5,
+      "url": "http://www.eeworld.com.cn/latestnews/5",
+      "item_count": 50,
+      "dates": [
+        "2026-03-12",
+        "2026-03-13"
+      ]
+    }
+  ],
+  "updated_at": "2026-03-23T09:03:31.400797+00:00"
+}

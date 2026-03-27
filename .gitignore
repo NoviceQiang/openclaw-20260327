@@ -1,0 +1,10 @@
+*
+!.gitignore
+!workspace/
+!workspace/**
+!workspace-lexmechanic/
+!workspace-lexmechanic/**
+!workspace-tech-priest/
+!workspace-tech-priest/**
+workspace/skills/nano-banana-pro/
+workspace/skills/news-aggregator/

@@ -1,0 +1,290 @@
+{
+  "mode": "latest-day",
+  "source": "http://www.eeworld.com.cn/latestnews",
+  "dates": [
+    "2026-03-23"
+  ],
+  "fetched_at": "2026-03-23T12:33:34.814Z",
+  "fetch_method": "browser-live",
+  "total_items": 27,
+  "ranked": [
+    {
+      "date": "2026-03-23",
+      "category": "车用传感器/MCU",
+      "title": "时间同步如何让自动驾驶感知系统认知统一？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719289.html",
+      "score": 15,
+      "matched_categories": [
+        "传感器/MCU"
+      ],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-03-23T13:00:22.251985+00:00",
+      "interested": true,
+      "interest_note": "C:\\Users\\Qiang\\.openclaw\\workspace-lexmechanic\\memory\\interests\\2026-03-23.md"
+    },
+    {
+      "date": "2026-03-23",
+      "category": "FPGA/DSP",
+      "title": "利用锚定可信平台模块（TPM）的FPGA构建人形机器人安全",
+      "url": "https://www.eeworld.com.cn/qrs/eic719266.html",
+      "score": 6,
+      "matched_categories": [
+        "嵌入式系统"
+      ],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-03-23T13:06:52.342364+00:00",
+      "interested": true,
+      "interest_note": "C:\\Users\\Qiang\\.openclaw\\workspace-lexmechanic\\memory\\interests\\2026-03-23.md"
+    },
+    {
+      "date": "2026-03-23",
+      "category": "机器人",
+      "title": "人形机器人行业开启人才争夺战",
+      "url": "https://www.eeworld.com.cn/robot/eic719291.html",
+      "score": 6,
+      "matched_categories": [
+        "机器人"
+      ],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "工控设备",
+      "title": "数智再创新，新质领未来 | ABB再获多项行业大奖",
+      "url": "https://www.eeworld.com.cn/gykz/eic719250.html",
+      "score": 6,
+      "matched_categories": [
+        "工业控制"
+      ],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "STM32",
+      "title": "意法半导体中国本地造STM32微控制器启动规模量产",
+      "url": "https://www.eeworld.com.cn/mcu/eic719279.html",
+      "score": 6,
+      "matched_categories": [
+        "嵌入式系统"
+      ],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "机器人",
+      "title": "Arm成立物理AI事业部后，负责人首次亮相中国",
+      "url": "https://www.eeworld.com.cn/robot/eic719247.html",
+      "score": 6,
+      "matched_categories": [
+        "机器人"
+      ],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "分立器件",
+      "title": "电源“免疫力”决定芯片稳定性：PSRR测试为何越来越关键",
+      "url": "https://www.eeworld.com.cn/dygl/eic719243.html",
+      "score": 3,
+      "matched_categories": [
+        "功率器件/封装"
+      ],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "行业动态",
+      "title": "美光 CEO：L4 级自动驾驶普及后，一辆车所需的内存将超 300GB",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719255.html",
+      "score": 3,
+      "matched_categories": [
+        "行业动态"
+      ],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "电池管理",
+      "title": "瑞萨电子推出全新GaN充电方案， 为广泛的工业及物联网电子设备带来500W强劲功率",
+      "url": "https://www.eeworld.com.cn/dygl/eic719269.html",
+      "score": 3,
+      "matched_categories": [
+        "功率器件/封装"
+      ],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "宽禁带半导体",
+      "title": "瑞萨电子推出首款650V双向GaN开关， 标志着功率转换设计规范的重大变革",
+      "url": "https://www.eeworld.com.cn/dygl/eic719249.html",
+      "score": 3,
+      "matched_categories": [
+        "功率器件/封装"
+      ],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "分立器件",
+      "title": "Vishay推出获AEC-Q200认证的超小尺寸厚膜贴片式电阻",
+      "url": "https://www.eeworld.com.cn/dygl/eic719245.html",
+      "score": 3,
+      "matched_categories": [
+        "功率器件/封装"
+      ],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "音响",
+      "title": "12V升32V大功率2x110W双声道D类音频功放+升压芯片组合解决方案",
+      "url": "https://www.eeworld.com.cn/",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-03-24T06:32:03.102632+00:00"
+    },
+    {
+      "date": "2026-03-23",
+      "category": "电子头条",
+      "title": "320万辆特斯拉被查；小米将做电脑龙虾；铠侠将停产TSOP封装产品",
+      "url": "https://www.eeworld.com.cn/",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "动力系统",
+      "title": "奔驰首辆“全固态”电池车下线，耐低温，续航轻松突破1000km！",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719288.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "动力系统",
+      "title": "电池大竞赛，没到大结局",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719285.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "综合资讯",
+      "title": "赋能AI与新能源时代的高动态MW级负载平台",
+      "url": "https://www.eeworld.com.cn/Test_and_measurement/eic719271.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "动力系统",
+      "title": "固态电池要来了？长安给出清晰量产时间表",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719287.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "综合资讯",
+      "title": "库克：中国是苹果全球供应链最主要基地，前百家核心供应商中 80 家位于中国",
+      "url": "https://www.eeworld.com.cn/xfdz/eic719257.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "其他技术",
+      "title": "美光预测：L4 自动驾驶汽车将需超 300GB 内存",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719290.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "半导体生产",
+      "title": "三星代工迎来大逆转！接连拿下NVIDIA、Tesla、AMD大单：Q4有望扭亏",
+      "url": "https://www.eeworld.com.cn/manufacture/eic719253.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "综合资讯",
+      "title": "泰瑞达将亮相SEMICON China 2026，展示先进测试解决方案",
+      "url": "https://www.eeworld.com.cn/Test_and_measurement/eic719267.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "市场动态",
+      "title": "消息称英伟达调整 Feynman GPU 设计：减少 A16 用量，应对台积电产能紧缺",
+      "url": "https://www.eeworld.com.cn/manufacture/eic719259.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "综合资讯",
+      "title": "芯科科技谈边缘AI：嵌入式开发为何走向软件主导",
+      "url": "https://www.eeworld.com.cn/IoT/eic719264.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-03-24T06:14:56.887381+00:00"
+    },
+    {
+      "date": "2026-03-23",
+      "category": "综合资讯",
+      "title": "严防触电：医疗设备安全防护策略",
+      "url": "https://www.eeworld.com.cn/medical_electronics/eic719262.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "电子头条",
+      "title": "有奖直播报名中！借助PXI与NI LabVIEW+ 套件加速电子产品自动化测试",
+      "url": "https://www.eeworld.com.cn/emp/EEWorld/a422658.jspx",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "综合资讯",
+      "title": "ABB参加中国发展高层论坛2026年会",
+      "url": "https://www.eeworld.com.cn/gykz/eic719252.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "date": "2026-03-23",
+      "category": "综合资讯",
+      "title": "Intel 18A新机上市，英特尔转型跃上新台阶",
+      "url": "https://www.eeworld.com.cn/wltx/eic719280.html",
+      "score": 0,
+      "matched_categories": [],
+      "matched_keywords": []
+    }
+  ],
+  "updated_at": "2026-03-24T06:32:03.102632+00:00"
+}
