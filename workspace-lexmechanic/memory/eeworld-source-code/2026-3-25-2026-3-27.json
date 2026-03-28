@@ -19,7 +19,9 @@
       "matched_categories": [
         "机器人"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -31,7 +33,9 @@
       "matched_categories": [
         "机器人"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "嵌入式系统",
@@ -43,7 +47,9 @@
       "matched_categories": [
         "嵌入式系统"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "嵌入式系统",
@@ -55,7 +61,9 @@
       "matched_categories": [
         "嵌入式系统"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "行业动态",
@@ -67,7 +75,9 @@
       "matched_categories": [
         "行业动态"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "行业动态",
@@ -79,7 +89,9 @@
       "matched_categories": [
         "行业动态"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "行业动态",
@@ -91,7 +103,9 @@
       "matched_categories": [
         "行业动态"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -103,7 +117,9 @@
       "matched_categories": [],
       "matched_keywords": [
         "物理AI"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -115,7 +131,9 @@
       "matched_categories": [],
       "matched_keywords": [
         "功率密度"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "市场动态",
@@ -127,7 +145,9 @@
       "matched_categories": [],
       "matched_keywords": [
         "物理AI"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "通信与网络",
@@ -137,7 +157,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -147,7 +169,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -157,7 +181,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -167,7 +193,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "嵌入式处理器",
@@ -177,7 +205,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -187,7 +217,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -197,7 +229,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -207,7 +241,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -217,7 +253,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -227,7 +265,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -237,7 +277,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -247,7 +289,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "物联网安全",
@@ -257,7 +301,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "智能家居",
@@ -267,7 +313,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "分析仪",
@@ -277,7 +325,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "PIC单片机",
@@ -287,7 +337,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -297,7 +349,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "车用传感器/MCU",
@@ -307,7 +361,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "RF技术",
@@ -317,7 +373,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -327,7 +385,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -337,7 +397,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -347,7 +409,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -357,7 +421,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -367,7 +433,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -377,7 +445,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -387,7 +457,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "智能家居",
@@ -397,7 +469,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "动力系统",
@@ -407,7 +481,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -417,7 +493,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -427,7 +505,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -437,7 +517,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "音响",
@@ -447,7 +529,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "智能家居",
@@ -457,7 +541,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -467,7 +553,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -477,7 +565,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -487,7 +577,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "光学传感器",
@@ -497,7 +589,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -507,7 +601,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -517,7 +613,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -527,7 +625,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -537,7 +637,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "EDA与IP",
@@ -547,7 +649,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -557,7 +661,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -567,7 +673,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -577,7 +685,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "分析仪",
@@ -587,7 +697,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -597,7 +709,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -607,7 +721,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -617,7 +733,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "市场动态",
@@ -627,7 +745,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "半导体生产",
@@ -637,7 +757,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -647,7 +769,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -657,7 +781,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "动力系统",
@@ -667,7 +793,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "市场动态",
@@ -677,7 +805,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "动力系统",
@@ -687,7 +817,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -697,7 +829,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -707,7 +841,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -717,7 +853,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -727,7 +865,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -737,7 +877,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "动力系统",
@@ -747,7 +889,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -757,7 +901,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -767,7 +913,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -777,7 +925,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "STM32",
@@ -787,7 +937,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -797,7 +949,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -807,7 +961,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -817,7 +973,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -827,7 +985,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "车用传感器/MCU",
@@ -837,7 +997,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "其他技术",
@@ -847,7 +1009,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -857,7 +1021,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -867,7 +1033,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -877,7 +1045,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -887,7 +1057,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "通信与网络",
@@ -897,7 +1069,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -907,7 +1081,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -917,7 +1093,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -927,7 +1105,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -937,7 +1117,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -947,7 +1129,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -957,7 +1141,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -967,7 +1153,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "其他技术",
@@ -977,7 +1165,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "车用传感器/MCU",
@@ -987,7 +1177,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -997,7 +1189,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1007,7 +1201,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1017,7 +1213,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1027,7 +1225,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1037,7 +1237,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1047,7 +1249,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1057,7 +1261,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -1067,7 +1273,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1077,7 +1285,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1087,7 +1297,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1097,7 +1309,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1107,7 +1321,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1117,7 +1333,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "智能家居",
@@ -1127,7 +1345,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1137,7 +1357,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1147,7 +1369,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1157,7 +1381,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1167,7 +1393,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1177,7 +1405,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1187,7 +1417,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1197,7 +1429,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1207,7 +1441,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "市场动态",
@@ -1217,7 +1453,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1227,7 +1465,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -1237,7 +1477,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -1247,7 +1489,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -1257,7 +1501,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "分析仪",
@@ -1267,7 +1513,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1277,7 +1525,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1287,7 +1537,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1297,7 +1549,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电池管理",
@@ -1307,7 +1561,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "动力系统",
@@ -1317,7 +1573,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "驱动",
@@ -1327,7 +1585,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -1337,7 +1597,9 @@
       "date": "2026-03-25",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     }
   ],
   "fetched_pages": [

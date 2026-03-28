@@ -19,7 +19,9 @@
       "matched_keywords": [
         "嵌入式系统",
         "车用传感器"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "车用传感器/MCU",
@@ -47,7 +49,9 @@
       "matched_keywords": [
         "射频",
         "嵌入式系统"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "车用传感器/MCU",
@@ -59,7 +63,9 @@
       "matched_keywords": [
         "嵌入式系统",
         "车用传感器"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -70,7 +76,9 @@
       "score": 1.2,
       "matched_keywords": [
         "EtherCAT"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -81,7 +89,9 @@
       "score": 1.2,
       "matched_keywords": [
         "边缘AI"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "嵌入式系统",
@@ -92,7 +102,9 @@
       "score": 1.2,
       "matched_keywords": [
         "嵌入式系统"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "驱动",
@@ -103,7 +115,9 @@
       "score": 1.2,
       "matched_keywords": [
         "SiC MOSFET"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "FPGA/DSP",
@@ -114,7 +128,9 @@
       "score": 1.2,
       "matched_keywords": [
         "DSP"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "嵌入式系统",
@@ -125,7 +141,9 @@
       "score": 1.2,
       "matched_keywords": [
         "嵌入式系统"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -136,7 +154,9 @@
       "score": 0.8,
       "matched_keywords": [
         "车用传感器"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -147,7 +167,9 @@
       "score": 0.8,
       "matched_keywords": [
         "车用传感器"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -158,7 +180,9 @@
       "score": 0.8,
       "matched_keywords": [
         "嵌入式系统"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "工业电子",
@@ -169,7 +193,9 @@
       "score": 0.8,
       "matched_keywords": [
         "嵌入式系统"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "网络通信",
@@ -180,7 +206,9 @@
       "score": 0.8,
       "matched_keywords": [
         "射频"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "其他技术",
@@ -189,7 +217,9 @@
       "url": "https://www.eeworld.com.cn/Test_and_measurement/eic718835.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "植入式器材",
@@ -198,7 +228,9 @@
       "url": "https://www.eeworld.com.cn/medical_electronics/eic718798.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -207,7 +239,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718345.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "新能源",
@@ -216,7 +250,9 @@
       "url": "https://www.eeworld.com.cn/newenergy/eic716568.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -225,7 +261,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718347.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -234,7 +272,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718329.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "车身电子",
@@ -243,7 +283,9 @@
       "url": "https://www.eeworld.com.cn/qcdz/eic718806.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -252,7 +294,9 @@
       "url": "https://www.eeworld.com.cn/wltx/eic718856.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "新能源",
@@ -261,7 +305,9 @@
       "url": "https://www.eeworld.com.cn/newenergy/eic718839.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "行业动态",
@@ -270,7 +316,9 @@
       "url": "https://www.eeworld.com.cn/qcdz/eic718870.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -279,7 +327,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718348.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -288,7 +338,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718320.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "存储技术",
@@ -297,7 +349,9 @@
       "url": "https://www.eeworld.com.cn/xfdz/eic718799.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "行业动态",
@@ -306,7 +360,9 @@
       "url": "https://www.eeworld.com.cn/qcdz/eic718851.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -315,7 +371,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718339.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -324,7 +382,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718334.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -333,7 +393,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718322.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "半导体生产",
@@ -342,7 +404,9 @@
       "url": "https://www.eeworld.com.cn/manufacture/eic718859.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -351,7 +415,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718331.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -360,7 +426,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718327.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "宽禁带半导体",
@@ -369,7 +437,9 @@
       "url": "https://www.eeworld.com.cn/dygl/eic718812.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "新能源",
@@ -378,7 +448,9 @@
       "url": "https://www.eeworld.com.cn/newenergy/eic717476.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -387,7 +459,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718337.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "总线与连接",
@@ -396,7 +470,9 @@
       "url": "https://www.eeworld.com.cn/qcdz/eic718868.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -405,7 +481,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718341.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "新能源",
@@ -414,7 +492,9 @@
       "url": "https://www.eeworld.com.cn/newenergy/eic716876.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -423,7 +503,9 @@
       "url": "https://www.eeworld.com.cn/gykz/eic718825.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -432,7 +514,9 @@
       "url": "https://www.eeworld.com.cn/gykz/eic718819.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -441,7 +525,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718343.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "其他技术",
@@ -450,7 +536,9 @@
       "url": "https://www.eeworld.com.cn/qcdz/eic718871.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -459,7 +547,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718332.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -468,7 +558,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718354.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -477,7 +569,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718869.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "新能源",
@@ -486,7 +580,9 @@
       "url": "https://www.eeworld.com.cn/newenergy/eic715784.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "新能源",
@@ -495,7 +591,9 @@
       "url": "https://www.eeworld.com.cn/newenergy/eic717859.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -504,7 +602,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718338.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "封装测试",
@@ -513,7 +613,9 @@
       "url": "https://www.eeworld.com.cn/manufacture/eic718872.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -522,7 +624,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718352.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "行业动态",
@@ -531,7 +635,9 @@
       "url": "https://www.eeworld.com.cn/qcdz/eic718801.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -540,7 +646,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718349.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -549,7 +657,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718318.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "新能源",
@@ -558,7 +668,9 @@
       "url": "https://www.eeworld.com.cn/newenergy/eic717429.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -567,7 +679,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718317.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -576,7 +690,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718351.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -585,7 +701,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718355.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -594,7 +712,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718325.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -603,7 +723,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718324.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -612,7 +734,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718344.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -621,7 +745,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718333.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -630,7 +756,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718316.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -639,7 +767,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718358.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -648,7 +778,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718356.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -657,7 +789,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718821.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "信息处理",
@@ -666,7 +800,9 @@
       "url": "https://www.eeworld.com.cn/gykz/eic718854.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "物联网与云计算",
@@ -675,7 +811,9 @@
       "url": "https://www.eeworld.com.cn/wltx/eic718853.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -684,7 +822,9 @@
       "url": "https://www.eeworld.com.cn/gykz/eic718847.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -693,7 +833,9 @@
       "url": "https://www.eeworld.com.cn/medical_electronics/eic718845.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -702,7 +844,9 @@
       "url": "https://www.eeworld.com.cn/qrs/eic718840.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -711,7 +855,9 @@
       "url": "https://www.eeworld.com.cn/gykz/eic718849.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -720,7 +866,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718823.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -729,7 +877,9 @@
       "url": "https://www.eeworld.com.cn/wltx/eic718842.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -738,7 +888,9 @@
       "url": "https://www.eeworld.com.cn/wltx/eic718844.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "网络传输",
@@ -747,7 +899,9 @@
       "url": "https://www.eeworld.com.cn/IoT/eic718804.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "分立器件",
@@ -756,7 +910,9 @@
       "url": "https://www.eeworld.com.cn/dygl/eic718795.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -765,7 +921,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718340.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "其他技术",
@@ -774,7 +932,9 @@
       "url": "https://www.eeworld.com.cn/Test_and_measurement/eic718836.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -783,7 +943,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718335.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -792,7 +954,9 @@
       "url": "https://www.eeworld.com.cn/Test_and_measurement/eic718858.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "转换器",
@@ -801,7 +965,9 @@
       "url": "https://www.eeworld.com.cn/dygl/eic718861.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "市场动态",
@@ -810,7 +976,9 @@
       "url": "https://www.eeworld.com.cn/manufacture/eic718810.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "其他技术",
@@ -819,7 +987,9 @@
       "url": "https://www.eeworld.com.cn/qcdz/eic718873.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -828,7 +998,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718323.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -837,7 +1009,9 @@
       "url": "https://www.eeworld.com.cn/robot/eic718350.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "新能源",
@@ -846,7 +1020,9 @@
       "url": "https://www.eeworld.com.cn/newenergy/eic718671.html",
       "date": "2026-03-17",
       "score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     }
   ],
   "fetched_pages": [
