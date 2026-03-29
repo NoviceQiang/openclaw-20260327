@@ -823,8 +823,18 @@ def save_interest_note(
     except Exception:
         date_token = ts.date().isoformat()
 
+    try:
+        date_obj = dt.date.fromisoformat(date_token)
+    except Exception:
+        date_obj = ts.date()
+
+    week_in_month = ((date_obj.day - 1) // 7) + 1
+    week_map = {1: "第一周", 2: "第二周", 3: "第三周", 4: "第四周", 5: "第五周"}
+    week_label = week_map.get(week_in_month, f"第{week_in_month}周")
+    week_file = f"{date_obj.strftime('%Y-%m')}-{week_label}文章.md"
+
     interest_dir.mkdir(parents=True, exist_ok=True)
-    out = interest_dir / f"{date_token}.md"
+    out = interest_dir / week_file
 
     entry_lines: List[str] = []
     entry_lines.append(f"<!-- interest-entry: {url} -->")
@@ -892,7 +902,8 @@ def save_interest_note(
 
     return {
         "path": str(out),
-        "date_file": date_token,
+        "date_file": week_file,
+        "article_date": date_token,
         "keywords": keywords,
         "matched_keywords": matched_keywords,
     }

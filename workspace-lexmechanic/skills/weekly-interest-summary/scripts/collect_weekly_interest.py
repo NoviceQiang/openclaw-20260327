@@ -72,11 +72,9 @@ def extract_bullets(text: str) -> List[str]:
     return out
 
 
-def parse_note(path: Path) -> Optional[InterestNote]:
-    raw = path.read_text(encoding="utf-8", errors="replace")
-
+def parse_entry(raw: str, path: Path) -> Optional[InterestNote]:
     title = ""
-    m = re.search(r"^# .*?-\s*(.+)$", raw, re.M)
+    m = re.search(r"^##\s+(.+)$", raw, re.M)
     if m:
         title = m.group(1).strip()
     if not title:
@@ -160,14 +158,29 @@ def parse_note(path: Path) -> Optional[InterestNote]:
     )
 
 
+def parse_note(path: Path) -> List[InterestNote]:
+    raw = path.read_text(encoding="utf-8", errors="replace")
+    notes: List[InterestNote] = []
+    matches = list(re.finditer(r"<!-- interest-entry: (.*?) -->(.*?)<!-- /interest-entry: \1 -->", raw, re.S))
+    if matches:
+        for m in matches:
+            note = parse_entry(m.group(2), path)
+            if note:
+                notes.append(note)
+        return notes
+
+    single = parse_entry(raw, path)
+    return [single] if single else []
+
+
 def collect_notes(target_week: str) -> List[InterestNote]:
     notes: List[InterestNote] = []
     if not INTEREST_DIR.exists():
         return notes
     for path in sorted(INTEREST_DIR.glob("*.md")):
-        note = parse_note(path)
-        if note and note.week == target_week:
-            notes.append(note)
+        for note in parse_note(path):
+            if note and note.week == target_week:
+                notes.append(note)
     return notes
 
 

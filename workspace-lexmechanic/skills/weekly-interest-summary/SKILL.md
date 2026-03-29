@@ -6,7 +6,7 @@ description: "Summarize one ISO week of interest-marked notes from memory/intere
 # Weekly Interest Summary
 
 ## Overview
-Create one canonical weekly summary from `memory/interests/*.md` only. Keep note-level substance, group similar topics when helpful, and avoid arbitrary deletion. Write the first draft to `memory/weekly/YYYY-Www.md`, then keep refining that same file through user Q&A until the user is satisfied.
+Create one canonical weekly summary from `memory/interests/*.md` only. Interest notes are now stored as weekly merged files rather than daily files, so collection/parsing must support multiple entries inside one weekly note file. Keep note-level substance, group similar topics when helpful, and avoid arbitrary deletion. Write the first draft to `memory/weekly/YYYY-Www.md`, then keep refining that same file through user Q&A until the user is satisfied.
 
 This skill also supports read-status bookkeeping by writing back to source list JSON files under `memory/eeworld-source-code/*.json`. Use it when the user wants to mark an article as read, list unread items more accurately, or keep weekly summaries aware of read/interested state.
 

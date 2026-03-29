@@ -130,8 +130,10 @@
       "date": "2026-03-18",
       "score": 0.0,
       "matched_keywords": [],
-      "read": false,
-      "read_at": null
+      "read": true,
+      "read_at": "2026-03-28T10:46:27.539613+00:00",
+      "interested": true,
+      "interest_note": "C:\\Users\\Qiang\\.openclaw\\workspace-lexmechanic\\memory\\interests\\2026-03-18.md"
     },
     {
       "category": "行业动态",
@@ -392,5 +394,6 @@
         "2026-03-17"
       ]
     }
-  ]
+  ],
+  "updated_at": "2026-03-28T10:46:27.539613+00:00"
 }

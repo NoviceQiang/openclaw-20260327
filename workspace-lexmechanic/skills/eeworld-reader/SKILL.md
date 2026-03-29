@@ -1,6 +1,6 @@
 ---
 name: eeworld-reader
-description: Read EEWorld latestnews articles for specific date(s), rank them by profile keywords, read single articles, and save interest notes. Use when users ask for “某天文章 / 某日文章 / 按日期抓取 EEWorld 最新文章 / 抓 latestnews 某天内容 / 阅读第x篇 / 对这篇文章感兴趣 / 关键词计数”. Follow MEMORY.md first for output and storage: latest-day only saves JSON into memory/eeworld-source-code/, article reads do not archive locally by default, on-demand article cache saves JSON into memory/articles/, and interest notes are saved under memory/interests/ with filename [文章标题+时间].md.
+description: Read EEWorld latestnews articles for specific date(s), rank them by profile keywords, read single articles, and save interest notes. Use when users ask for “某天文章 / 某日文章 / 按日期抓取 EEWorld 最新文章 / 抓 latestnews 某天内容 / 阅读第x篇 / 对这篇文章感兴趣 / 关键词计数”. Follow MEMORY.md first for output and storage: latest-day only saves JSON into memory/eeworld-source-code/, article reads do not archive locally by default, on-demand article cache saves JSON into memory/articles/, and interest notes are saved under memory/interests/ as weekly merged files named like `2026-03-第三周文章.md`.
 ---
 
 # EEWorld Reader
@@ -123,7 +123,8 @@ python3 scripts/eeworld_feed.py interest-save \
 
 默认行为：
 - 写兴趣笔记到 `memory/interests/`
-- 笔记文件名格式：`[文章标题+时间].md`
+- 不再按单篇或单天建文件，而是按周合并写入周文件
+- 周文件命名格式：`YYYY-MM-第N周文章.md`，例如 `2026-03-第三周文章.md`
 - 同步关键词到画像并执行“计数叠加”（`--sync-profile` 默认开启，`--sync-mode` 默认 `count`）
 - 如需仅补缺失不叠加：`--sync-mode missing`
 
@@ -156,7 +157,7 @@ python3 scripts/eeworld_feed.py interest-save \
 ### C. 用户说“对这篇文章感兴趣”
 
 1. 立即写本地兴趣记录到 `memory/interests/`
-2. 文件名使用：`[文章标题+时间].md`
+2. 不单独新建日文件，而是写入对应周文件：`YYYY-MM-第N周文章.md`
 3. 从文章与摘要提取候选关键词（最多 5 个）
 4. 同步关键词到画像并做计数叠加
 5. 明确反馈：

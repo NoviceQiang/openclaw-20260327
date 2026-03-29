@@ -1,19 +1,20 @@
 {
-  "updated_at": "2026-03-28T00:27:29.501455+00:00",
-  "total_saved": 66,
+  "updated_at": "2026-03-28T12:16:56.295661+00:00",
+  "total_saved": 79,
   "category_counts": {
     "消费电子": 2,
-    "汽车电子": 4,
-    "无线传输": 8,
-    "射频": 7,
+    "汽车电子": 5,
+    "无线传输": 13,
+    "射频": 9,
     "网络通信": 8,
     "行业动态": 4,
-    "嵌入式系统": 2,
-    "工业控制": 4,
+    "嵌入式系统": 3,
+    "工业控制": 5,
     "机器人": 4,
     "模拟/传感链路": 5,
-    "传感器/MCU": 10,
-    "综合资讯": 3
+    "传感器/MCU": 12,
+    "综合资讯": 3,
+    "功率器件/封装": 1
   },
   "keyword_counts": {
     "800V DC 电源架构": 5,
@@ -65,7 +66,7 @@
     "栈/堆边界": 1,
     "静态分配": 1,
     "内存池": 1,
-    "功能安全": 2,
+    "功能安全": 3,
     "时间同步": 1,
     "gPTP/TSN": 1,
     "多传感器融合": 4,
@@ -230,7 +231,7 @@
     "CPO": 4,
     "硅光技术": 4,
     "光电融合": 1,
-    "高速互连": 4,
+    "高速互连": 5,
     "数据中心能效": 1,
     "Arm生态重构": 1,
     "IP到芯片": 1,
@@ -317,7 +318,65 @@
     "空间受限终端": 1,
     "无线电源架构": 1,
     "系统集成": 6,
-    "技术跟踪": 6
+    "技术跟踪": 6,
+    "HVAC无线化": 1,
+    "Matter/Thread": 1,
+    "多协议无线接入": 1,
+    "电网需求响应": 1,
+    "能效优化": 1,
+    "145GHz同轴组件": 1,
+    "多端口高频连接": 1,
+    "信号完整性": 1,
+    "AI与6G测试": 1,
+    "高密度测试平台": 1,
+    "Z-Wave长距离": 1,
+    "AIoT智能锁": 1,
+    "低功耗无线": 1,
+    "智能家居连接": 1,
+    "覆盖稳定性": 1,
+    "超低功耗Wi-Fi": 1,
+    "智能门锁": 1,
+    "无缝解锁体验": 1,
+    "电池寿命优化": 1,
+    "智能家居终端": 1,
+    "嵌入式预警系统": 1,
+    "变电站烟雾监测": 1,
+    "传感器与MCU": 1,
+    "边缘告警逻辑": 1,
+    "电力安全监测": 1,
+    "工业级IDE": 1,
+    "AI幻觉校验": 1,
+    "全流程调试": 1,
+    "自动化测试用例": 1,
+    "嵌入式AI可靠性": 1,
+    "降压转换器振铃": 1,
+    "RC缓冲网络": 1,
+    "寄生参数建模": 1,
+    "EMI抑制": 1,
+    "效率权衡": 1,
+    "光芯片封装": 1,
+    "封装工艺": 1,
+    "待精读": 6,
+    "感兴趣": 1,
+    "TSN": 1,
+    "802.1Qbv": 1,
+    "TAS调度": 1,
+    "确定性网络": 1,
+    "汽车音频": 1,
+    "DSP": 1,
+    "平台协同": 1,
+    "车载信号处理": 1,
+    "射频芯片": 1,
+    "价格竞争": 1,
+    "供应链": 1,
+    "无线传输": 1,
+    "DSC+MCU": 1,
+    "系统级安全": 1,
+    "嵌入式设计": 1,
+    "射频连接器": 1,
+    "紧凑布局": 1,
+    "空间受限设计": 1,
+    "高频互连": 1
   },
   "articles": [
     {
@@ -1223,6 +1282,188 @@
         "方案",
         "系统集成",
         "技术跟踪"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T10:10:32.623996+00:00",
+      "title": "IoT趋势问答－HVAC引入无线技术提升能源效率",
+      "url": "https://www.eeworld.com.cn/emp/Silicon-Labs/a422891.jspx",
+      "category": "无线传输",
+      "keywords": [
+        "HVAC无线化",
+        "Matter/Thread",
+        "多协议无线接入",
+        "电网需求响应",
+        "能效优化"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T10:13:59.972869+00:00",
+      "title": "Molex 莫仕推出 145 GHz Cardinal 多端口高频同轴组件， 为 AI 和 6G 测试树立新标杆",
+      "url": "https://www.eeworld.com.cn/wltx/eic719510.html",
+      "category": "无线传输",
+      "keywords": [
+        "145GHz同轴组件",
+        "多端口高频连接",
+        "信号完整性",
+        "AI与6G测试",
+        "高密度测试平台"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T10:18:11.719946+00:00",
+      "title": "Xthings：Z-Wave长距离技术赋能AIoT智能锁",
+      "url": "https://www.eeworld.com.cn/IoT/eic719582.html",
+      "category": "无线传输",
+      "keywords": [
+        "Z-Wave长距离",
+        "AIoT智能锁",
+        "低功耗无线",
+        "智能家居连接",
+        "覆盖稳定性"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T10:18:11.814955+00:00",
+      "title": "Kwikset：超低功耗Wi-Fi解锁无缝体验",
+      "url": "https://www.eeworld.com.cn/IoT/eic719581.html",
+      "category": "无线传输",
+      "keywords": [
+        "超低功耗Wi-Fi",
+        "智能门锁",
+        "无缝解锁体验",
+        "电池寿命优化",
+        "智能家居终端"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T10:18:11.909559+00:00",
+      "title": "嵌入式变电站烟雾预警系统的设计与实现",
+      "url": "https://www.eeworld.com.cn/mcu/eic719130.html",
+      "category": "传感器/MCU",
+      "keywords": [
+        "嵌入式预警系统",
+        "变电站烟雾监测",
+        "传感器与MCU",
+        "边缘告警逻辑",
+        "电力安全监测"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T10:24:08.002302+00:00",
+      "title": "嵌入式AI开发必看：杜绝幻觉，才是工业级IDE的核心底气",
+      "url": "https://www.eeworld.com.cn/emp/SMLS_Tech/a423017.jspx",
+      "category": "嵌入式系统",
+      "keywords": [
+        "工业级IDE",
+        "AI幻觉校验",
+        "全流程调试",
+        "自动化测试用例",
+        "嵌入式AI可靠性"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T10:46:15.720756+00:00",
+      "title": "看不见的振铃：利用缓冲电路抑制降压转换器中的寄生效应",
+      "url": "https://www.eeworld.com.cn/dygl/eic718888.html",
+      "category": "功率器件/封装",
+      "keywords": [
+        "降压转换器振铃",
+        "RC缓冲网络",
+        "寄生参数建模",
+        "EMI抑制",
+        "效率权衡"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T11:59:30.884384+00:00",
+      "title": "光芯片封装，大有可为",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a422103.jspx",
+      "category": "无线传输",
+      "keywords": [
+        "光芯片封装",
+        "高速互连",
+        "封装工艺",
+        "待精读",
+        "感兴趣"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T11:59:31.095503+00:00",
+      "title": "一文读懂 TSN 802.1Qbv TAS 调度机制",
+      "url": "https://www.eeworld.com.cn/emp/aes/a420767.jspx",
+      "category": "工业控制",
+      "keywords": [
+        "TSN",
+        "802.1Qbv",
+        "TAS调度",
+        "确定性网络",
+        "待精读"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T11:59:31.298319+00:00",
+      "title": "DSP Concepts 与 AMD 助力打造下一代汽车音频",
+      "url": "https://www.eeworld.com.cn/emp/Xilinx/a422939.jspx",
+      "category": "汽车电子",
+      "keywords": [
+        "汽车音频",
+        "DSP",
+        "平台协同",
+        "车载信号处理",
+        "待精读"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T12:16:55.868419+00:00",
+      "title": "都在涨价，射频芯片为何还要降价？",
+      "url": "https://www.eeworld.com.cn/emp/zhonglintanxin/a423077.jspx",
+      "category": "射频",
+      "keywords": [
+        "射频芯片",
+        "价格竞争",
+        "供应链",
+        "无线传输",
+        "待精读"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T12:16:56.084378+00:00",
+      "title": "实用攻略：用DSC+MCU实现系统级安全的嵌入式设计",
+      "url": "https://www.eeworld.com.cn/emp/DigiKey/a422730.jspx",
+      "category": "传感器/MCU",
+      "keywords": [
+        "DSC+MCU",
+        "系统级安全",
+        "嵌入式设计",
+        "功能安全",
+        "待精读"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-03-28T12:16:56.295661+00:00",
+      "title": "空间太小？上倾斜式射频连接器！",
+      "url": "https://www.eeworld.com.cn/emp/DigiKey/a422728.jspx",
+      "category": "射频",
+      "keywords": [
+        "射频连接器",
+        "紧凑布局",
+        "空间受限设计",
+        "高频互连",
+        "待精读"
       ],
       "mode": "add-or-increment"
     }
