@@ -1,0 +1,390 @@
+{
+  "mode": "latest-day",
+  "source": "http://www.eeworld.com.cn/latestnews",
+  "dates": [
+    "2026-03-30"
+  ],
+  "fetched_at": "2026-03-30T12:09:07.014765+00:00",
+  "max_pages": 40,
+  "profile": "C:\\Users\\Qiang\\.openclaw\\workspace-lexmechanic\\memory\\eeworld-reading-profile.json",
+  "total_items": 32,
+  "ranked": [
+    {
+      "category": "通信与网络",
+      "category_url": "http://news.eeworld.com.cn/Test_and_measurement/communication/",
+      "title": "是德科技在2026年汽车以太网大会上发布新一代车载网络测试解决方案",
+      "url": "https://www.eeworld.com.cn/Test_and_measurement/eic719925.html",
+      "date": "2026-03-30",
+      "score": 28.8,
+      "matched_categories": [],
+      "matched_keywords": [
+        "方案",
+        "解决方案"
+      ],
+      "read": true,
+      "read_at": "2026-03-30T12:31:40.679706+00:00"
+    },
+    {
+      "category": "网络通信",
+      "category_url": "http://news.eeworld.com.cn/dygl/wltx/",
+      "title": "意法半导体与英伟达合作推出全新 12V 及 6V 架构",
+      "url": "https://www.eeworld.com.cn/dygl/eic719929.html",
+      "date": "2026-03-30",
+      "score": 24.0,
+      "matched_categories": [
+        "网络通信"
+      ],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-03-31T02:47:50.362708+00:00"
+    },
+    {
+      "category": "机器人",
+      "category_url": "http://news.eeworld.com.cn/robot/",
+      "title": "这家VC机构“重仓”具身智能赛道，全链闭环能否穿越产业周期？",
+      "url": "https://www.eeworld.com.cn/robot/eic719927.html",
+      "date": "2026-03-30",
+      "score": 12.0,
+      "matched_categories": [
+        "机器人"
+      ],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-03-31T03:50:43.888037+00:00"
+    },
+    {
+      "category": "行业动态",
+      "category_url": "http://news.eeworld.com.cn/qcdz/hydt/",
+      "title": "欧洲安全机构公开批评特斯拉FSD：危险且不负责任，命名存在误导",
+      "url": "https://www.eeworld.com.cn/qcdz/eic719905.html",
+      "date": "2026-03-30",
+      "score": 12.0,
+      "matched_categories": [
+        "行业动态"
+      ],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-03-31T06:04:20.774314+00:00"
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/medical_electronics/zhzx/",
+      "title": "阿里达摩院与东软医疗达成战略合作，“软硬一体”推动多癌早筛AI普及",
+      "url": "https://www.eeworld.com.cn/medical_electronics/eic719914.html",
+      "date": "2026-03-30",
+      "score": 9.0,
+      "matched_categories": [
+        "综合资讯"
+      ],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-03-31T06:08:37.823078+00:00"
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/MEMS/zhzx/",
+      "title": "英飞凌推出超低噪声XENSIV™ TLE4978，混合霍尔与线圈电流传感器",
+      "url": "https://www.eeworld.com.cn/MEMS/eic719910.html",
+      "date": "2026-03-30",
+      "score": 9.0,
+      "matched_categories": [
+        "综合资讯"
+      ],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-03-31T07:34:06.707139+00:00"
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/dygl/hydt/",
+      "title": "PI新一代TOPSwitchGaN，将反激拓扑推向400W新时代",
+      "url": "https://www.eeworld.com.cn/dygl/eic719916.html",
+      "date": "2026-03-30",
+      "score": 9.0,
+      "matched_categories": [
+        "综合资讯"
+      ],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-03-31T08:08:36.012202+00:00"
+    },
+    {
+      "category": "宽禁带半导体",
+      "category_url": "http://news.eeworld.com.cn/dygl/wbg/",
+      "title": "芯联集成SiC业务跻身全球前五，在中国厂商中位居第一！SiC功率模块有望跃居全球第四！",
+      "url": "https://www.eeworld.com.cn/dygl/eic719901.html",
+      "date": "2026-03-30",
+      "score": 1.2,
+      "matched_categories": [],
+      "matched_keywords": [
+        "SiC功率模块"
+      ],
+      "read": true,
+      "read_at": "2026-03-31T08:12:27.771024+00:00"
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "黄仁勋也站台的抱抱脸机器人卖爆了，背后公司竟来自中国",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423506.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-03-31T10:54:25.692715+00:00"
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "预测这件事，人类越犹豫，这个大模型越有优势",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423508.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "铜缆，再被看好！",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423496.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "补上“最后一块短板”：镭神西安切入封装设备核心赛道",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423497.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "英伟达PC芯片，即将推出",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423502.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "LED",
+      "category_url": "http://news.eeworld.com.cn/dygl/powerLED/",
+      "title": "艾迈斯欧司朗与伊戈尔达成欧司朗（OSRAM）品牌LED驱动器授权协议",
+      "url": "https://www.eeworld.com.cn/dygl/eic719931.html",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "自动驾驶 ECU 确定性调度体系：从核绑定到全栈可控架构",
+      "url": "https://www.eeworld.com.cn/emp/aes/a423520.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "美国开源AI最后的旗帜，也倒了",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423509.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "硅晶圆大厂 SUMCO 胜高调整扩产计划，暂缓新厂建设",
+      "url": "https://www.eeworld.com.cn/manufacture/eic719903.html",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "游戏大厂不需要人情味运营！裁员超千人致患癌员工失去保险，家属发声；DeepSeek深夜突发大规模崩溃，暂未恢复正常；字节通报：65人被辞退",
+      "url": "https://www.eeworld.com.cn/emp/leiphone/a423504.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "消息称三星电子西安晶圆厂实现 V8 (236L) 3D NAND 闪存量产",
+      "url": "https://www.eeworld.com.cn/manufacture/eic719907.html",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "有奖直播 | 借助PXI与NI LabVIEW+ 套件加速电子产品自动化测试",
+      "url": "https://www.eeworld.com.cn/emp/EEWorld/a423494.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "新型忆阻器，电流大降",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423503.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "存储不再是周期性产业",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423498.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "如何看待 Linux 内核邮件列表重启将内核中的 C 代码转换为 C ++的讨论？",
+      "url": "https://www.eeworld.com.cn/emp/liangxulinux/a423522.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "台积电2nm，售罄",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423500.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "六大芯片公司，集体涨价",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423501.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "从“单点突破”到“全域智能”：智现未来以全栈AI引领国产半导体工业软件新浪潮",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423499.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "中国反击，AI顶会已死；日本功率半导体三强联手，目标全球第二；我国推出基于 RISC-V 的香山、如意操作系统",
+      "url": "https://www.eeworld.com.cn/emp/EEWorld/a423493.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "《安富莱嵌入式周报》第365期: TI发布低噪声、高线性度万用表参设计，开源雷达探测距离20公里，开源图形计算器，微软发布手把手RUST教程",
+      "url": "https://www.eeworld.com.cn/emp/armfly_com/a423515.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "市场动态",
+      "category_url": "http://news.eeworld.com.cn/manufacture/scdt/",
+      "title": "e络盟新一季《发现顶尖技术之声》聚焦大脑健康与可持续科技",
+      "url": "https://www.eeworld.com.cn/manufacture/eic719909.html",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "DeepSeek网页版大升级！随后宕机11小时崩上热搜，新模型真的来了",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423505.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "物联网安全",
+      "category_url": "http://news.eeworld.com.cn/IoT/iotsafety/",
+      "title": "Akamai Guardicore Segmentation 以 AI 赋能，重塑 Zero Trust 安全",
+      "url": "https://www.eeworld.com.cn/IoT/eic719912.html",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "20万条4D交互数据+运动学锚定，南洋理工让生成式仿真不再「脑补」机器人动作",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423507.jspx",
+      "date": "2026-03-30",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    }
+  ],
+  "fetched_pages": [
+    {
+      "page": 1,
+      "url": "http://www.eeworld.com.cn/latestnews",
+      "item_count": 50,
+      "dates": [
+        "2026-03-29",
+        "2026-03-30"
+      ]
+    },
+    {
+      "page": 2,
+      "url": "http://www.eeworld.com.cn/latestnews/2",
+      "item_count": 49,
+      "dates": [
+        "2026-03-27",
+        "2026-03-28",
+        "2026-03-29"
+      ]
+    }
+  ],
+  "updated_at": "2026-03-31T10:54:25.692715+00:00"
+}
