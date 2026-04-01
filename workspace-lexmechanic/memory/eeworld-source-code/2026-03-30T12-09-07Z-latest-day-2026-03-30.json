@@ -362,7 +362,9 @@
       "date": "2026-03-30",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-04-01T08:43:02.297118+00:00"
     }
   ],
   "fetched_pages": [
@@ -386,5 +388,5 @@
       ]
     }
   ],
-  "updated_at": "2026-03-31T10:54:25.692715+00:00"
+  "updated_at": "2026-04-01T08:43:02.297118+00:00"
 }
