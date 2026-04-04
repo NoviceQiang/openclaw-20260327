@@ -47,12 +47,39 @@ CATEGORY_ALIASES = {
     "射频": ["射频", "rf", "毫米波", "雷达", "天线"],
 }
 
+TECH_DEPTH_TOKENS = [
+    "方案", "架构", "链路", "算法", "验证", "测试", "测量", "参数", "机制",
+    "约束", "量产", "封装", "热设计", "可靠性", "诊断", "控制", "驱动", "afe", "pmic",
+]
+
+LOW_VALUE_TITLE_TOKENS = [
+    "邀请函", "诚邀", "报名", "有奖", "赢礼", "试用活动", "直播", "开售", "促销", "特惠",
+    "营收", "融资", "上市", "财报", "暴涨", "涨价", "突发", "独家", "狂欢", "观赛",
+]
+
+LOW_VALUE_SOURCE_HINTS = [
+    "/emp/leiphone/", "/emp/qbitai/", "/emp/icbank/",
+]
+
 CURL_USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 )
 
 MAX_INTEREST_KEYWORDS = 5
+
+FULL_CHAIN_HINT_TOKENS = [
+    "整机链路",
+    "全链路",
+    "全链路测试",
+    "感知",
+    "高速总线",
+    "决策控制",
+    "执行",
+    "供电",
+    "热管理",
+    "安全诊断",
+]
 
 
 # ---------- fetch core ----------
@@ -602,6 +629,24 @@ def score_latest_item(item: Dict[str, str], category_counts: Dict[str, int], key
             score += 0.8 * weight
             matched_keywords.append(keyword)
 
+    # Quality-aware rerank: boost technical depth, down-weight promo/news-like items
+    quality_adjust = 0.0
+    title = str(item.get("title", "")).lower()
+    url = str(item.get("url", "")).lower()
+
+    tech_hits = sum(1 for t in TECH_DEPTH_TOKENS if token_in_text(t, title))
+    if tech_hits:
+        quality_adjust += min(tech_hits * 0.35, 1.75)
+
+    low_value_hits = sum(1 for t in LOW_VALUE_TITLE_TOKENS if token_in_text(t, title))
+    if low_value_hits:
+        quality_adjust -= min(low_value_hits * 0.9, 2.7)
+
+    if any(h in url for h in LOW_VALUE_SOURCE_HINTS):
+        quality_adjust -= 0.8
+
+    score += quality_adjust
+
     matched_categories.sort(key=lambda c: (-int(category_counts.get(c, 1)), c))
     matched_keywords.sort(key=lambda k: (-int(keyword_counts.get(k, 1)), k))
     return score, matched_categories, matched_keywords
@@ -798,6 +843,67 @@ def save_capture_payload(
     return {"json": str(json_path)}
 
 
+def _split_focus_points(raw: str) -> List[str]:
+    if not raw or not raw.strip():
+        return []
+
+    points: List[str] = []
+    seen: Set[str] = set()
+    for line in raw.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        if line.startswith("- "):
+            line = line[2:].strip()
+        elif line.startswith("-"):
+            line = line[1:].strip()
+
+        for part in re.split(r"[；;]", line):
+            p = part.strip()
+            if not p:
+                continue
+            k = p.lower()
+            if k in seen:
+                continue
+            seen.add(k)
+            points.append(p)
+    return points
+
+
+def _should_expand_full_chain_focus(*, title: str, summary: str, focus_points: List[str], keywords: List[str]) -> bool:
+    hay = " ".join([title, summary, " ".join(focus_points), " ".join(keywords)]).lower()
+    return any(tok in hay for tok in FULL_CHAIN_HINT_TOKENS)
+
+
+def _render_full_chain_detail_lines() -> List[str]:
+    lines: List[str] = []
+    lines.append("- 对应测试项目与指标（自动细化）")
+    lines.append("  - 感知层（Camera/LiDAR/IMU/力传感）")
+    lines.append("    - 测试项目：精度、漂移、同步、抗干扰、温漂")
+    lines.append("    - 核心指标：时间戳对齐误差、丢帧率、标定稳定性")
+    lines.append("")
+    lines.append("  - 传输层（高速总线/以太网/内部互联）")
+    lines.append("    - 测试项目：带宽、时延、抖动、误码、拥塞退化")
+    lines.append("    - 核心指标：P99时延、BER、包丢失、重传率")
+    lines.append("")
+    lines.append("  - 决策与控制层（主控SoC/实时控制器）")
+    lines.append("    - 测试项目：控制周期稳定性、任务调度、异常回退")
+    lines.append("    - 核心指标：控制回路周期抖动、deadline miss、故障恢复时间")
+    lines.append("")
+    lines.append("  - 执行层（电机驱动/关节/减速器）")
+    lines.append("    - 测试项目：响应速度、跟踪误差、重复定位、冲击负载表现")
+    lines.append("    - 核心指标：上升时间、超调量、稳态误差、峰值温升")
+    lines.append("")
+    lines.append("  - 供电与热管理层（重点）")
+    lines.append("    - 测试项目：电源轨规划、动态负载瞬态、低功耗策略、保护诊断")
+    lines.append("    - 核心指标：轨压纹波、瞬态跌落、静态电流、保护触发正确率、热热点分布")
+    lines.append("")
+    lines.append("  - 功能安全与运维层")
+    lines.append("    - 测试项目：故障注入、降级策略、日志闭环、远程诊断")
+    lines.append("    - 核心指标：故障检出率、误报漏报率、可恢复率、MTTR")
+    return lines
+
+
 def save_interest_note(
     *,
     title: str,
@@ -871,7 +977,21 @@ def save_interest_note(
         entry_lines.append("  - (待补充)")
     entry_lines.append("")
     entry_lines.append("### 本篇关注重点")
-    entry_lines.append(focus.strip() or "- 用户真正关注的重点待补充")
+    focus_points = _split_focus_points(focus)
+    if focus_points:
+        for p in focus_points:
+            entry_lines.append(f"- {p}")
+    else:
+        entry_lines.append("- 用户真正关注的重点待补充")
+
+    if _should_expand_full_chain_focus(
+        title=title,
+        summary=summary,
+        focus_points=focus_points,
+        keywords=keywords,
+    ):
+        entry_lines.extend(_render_full_chain_detail_lines())
+
     entry_lines.append("")
     entry_lines.append("### 后续关注点")
     entry_lines.append("- 芯片/方案参数")

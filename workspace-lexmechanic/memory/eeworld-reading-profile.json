@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-31T08:04:57.273700+00:00",
-  "total_saved": 81,
+  "updated_at": "2026-04-04T00:34:10.372579+00:00",
+  "total_saved": 87,
   "category_counts": {
     "消费电子": 2,
     "汽车电子": 5,
@@ -291,7 +291,7 @@
     "光耦国产替代": 0,
     "隔离器件选型": 0,
     "低功耗隔离方案": 5,
-    "BOM优化": 0,
+    "BOM优化": 1,
     "电源控制链路": 1,
     "视觉AI系统": 1,
     "实时目标检测": 1,
@@ -385,7 +385,36 @@
     "无芯隔离式磁电流传感器": 1,
     "霍尔+空气线圈": 1,
     "低频精度": 1,
-    "高频响应": 1
+    "高频响应": 1,
+    "整机链路验证": 1,
+    "感知传输决策执行闭环": 1,
+    "高速总线与时延抖动": 1,
+    "供电与热管理测试": 1,
+    "安全诊断闭环": 1,
+    "ICG特征点检测": 1,
+    "BCX检测流程": 1,
+    "动态功耗采样策略": 1,
+    "低功耗可穿戴监测": 1,
+    "生物阻抗AFE": 1,
+    "算法替代传感器": 1,
+    "无传感器FOC": 1,
+    "零速全扭矩控制": 1,
+    "鲁棒性提升": 1,
+    "无界面IoT远程运营": 1,
+    "SGP.32 eSIM": 1,
+    "IPAd设备侧执行": 1,
+    "eIM生命周期管理": 1,
+    "连接运维闭环": 1,
+    "低功耗与读距兼顾": 1,
+    "NFC鲁棒通信": 1,
+    "动态功率调节DPO": 1,
+    "噪声抑制NSR": 1,
+    "波形优化AWS": 1,
+    "CBMRF001芯片": 1,
+    "AD9361兼容替代": 1,
+    "2x2射频收发器": 1,
+    "70MHz-6GHz": 1,
+    "高集成RF前端": 1
   },
   "articles": [
     {
@@ -1501,6 +1530,90 @@
         "低频精度",
         "高频响应",
         "电流检测链路"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-04-03T00:24:28.663619+00:00",
+      "title": "从“能动”到“能用”，人形机器人还差什么？",
+      "url": "https://www.eeworld.com.cn/robot/eic720096.html",
+      "category": "",
+      "keywords": [
+        "整机链路验证",
+        "感知传输决策执行闭环",
+        "高速总线与时延抖动",
+        "供电与热管理测试",
+        "安全诊断闭环"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-04-03T14:45:07.335058+00:00",
+      "title": "利用集成式AFE实现无创心搏出量监测",
+      "url": "https://www.eeworld.com.cn/medical_electronics/eic720058.html",
+      "category": "",
+      "keywords": [
+        "ICG特征点检测",
+        "BCX检测流程",
+        "动态功耗采样策略",
+        "低功耗可穿戴监测",
+        "生物阻抗AFE"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-04-03T14:58:47.644433+00:00",
+      "title": "STM32 ZeST+HSO：无传感器电机控制的零速全扭矩突破",
+      "url": "https://www.eeworld.com.cn/emp/STM32/a423660.jspx",
+      "category": "",
+      "keywords": [
+        "算法替代传感器",
+        "无传感器FOC",
+        "零速全扭矩控制",
+        "BOM优化",
+        "鲁棒性提升"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-04-03T15:10:32.936603+00:00",
+      "title": "ST4SIM‑300 × 红茶移动：让无界面IoT设备“上线即可控”",
+      "url": "https://www.eeworld.com.cn/emp/STM32/a423663.jspx",
+      "category": "",
+      "keywords": [
+        "无界面IoT远程运营",
+        "SGP.32 eSIM",
+        "IPAd设备侧执行",
+        "eIM生命周期管理",
+        "连接运维闭环"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-04-03T15:25:49.125290+00:00",
+      "title": "ST25R210高性能NFC读卡器：四大核心技术打造长距离、低功耗、强抗干扰体验",
+      "url": "https://www.eeworld.com.cn/emp/STM32/a423659.jspx",
+      "category": "",
+      "keywords": [
+        "低功耗与读距兼顾",
+        "NFC鲁棒通信",
+        "动态功率调节DPO",
+        "噪声抑制NSR",
+        "波形优化AWS"
+      ],
+      "mode": "add-or-increment"
+    },
+    {
+      "saved_at": "2026-04-04T00:34:10.372579+00:00",
+      "title": "无线通信优选 | CBMRF001高集成射频捷变收发器！(兼容AD9361)",
+      "url": "https://www.eeworld.com.cn/wltx/eic720171.html",
+      "category": "",
+      "keywords": [
+        "CBMRF001芯片",
+        "AD9361兼容替代",
+        "2x2射频收发器",
+        "70MHz-6GHz",
+        "高集成RF前端"
       ],
       "mode": "add-or-increment"
     }
