@@ -1,0 +1,322 @@
+{
+  "mode": "latest-day",
+  "source": "http://www.eeworld.com.cn/latestnews",
+  "dates": [
+    "2026-04-06"
+  ],
+  "fetched_at": "2026-04-07T10:25:01.491402+00:00",
+  "max_pages": 8,
+  "profile": "C:\\Users\\Qiang\\.openclaw\\workspace-lexmechanic\\memory\\eeworld-reading-profile.json",
+  "total_items": 27,
+  "ranked": [
+    {
+      "category": "行业动态",
+      "category_url": "http://news.eeworld.com.cn/qcdz/hydt/",
+      "title": "自动驾驶横向与纵向控制模块各有什么作用？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic720302.html",
+      "date": "2026-04-06",
+      "score": 12.35,
+      "matched_categories": [
+        "行业动态"
+      ],
+      "matched_keywords": [],
+      "read": true,
+      "read_at": "2026-04-07T11:06:53.227704+00:00"
+    },
+    {
+      "category": "综合资讯",
+      "category_url": "http://news.eeworld.com.cn/qrs/zhzx/",
+      "title": "亿道信息启动Agent One项目：打造端侧AI中枢，开启智能代理新时代",
+      "url": "https://www.eeworld.com.cn/qrs/eic720299.html",
+      "date": "2026-04-06",
+      "score": 9.0,
+      "matched_categories": [
+        "综合资讯"
+      ],
+      "matched_keywords": []
+    },
+    {
+      "category": "其他技术",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qt/",
+      "title": "车窗变留言板 通用汽车申请通信系统专利",
+      "url": "https://www.eeworld.com.cn/qcdz/eic720303.html",
+      "date": "2026-04-06",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "车用传感器/MCU",
+      "category_url": "http://news.eeworld.com.cn/qcdz/cgq/",
+      "title": "跨过10%临界点！激光雷达成长逻辑“突变”，新主线浮出水面",
+      "url": "https://www.eeworld.com.cn/qcdz/eic720300.html",
+      "date": "2026-04-06",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "动力系统",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qcdldz/",
+      "title": "萨里大学开发新型锂离子电池阳极材料 有望延长电动汽车续航里程",
+      "url": "https://www.eeworld.com.cn/qcdz/eic720304.html",
+      "date": "2026-04-06",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "芯报丨SEMI：AI芯片需求激增，预计2027年全球300毫米晶圆设备支出逾1500亿美元",
+      "url": "https://www.eeworld.com.cn/emp/AIxintianxia/a423910.jspx",
+      "date": "2026-04-06",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "热点丨谷歌Gemma 4用31B击败397B模型，本地AI推向新高度",
+      "url": "https://www.eeworld.com.cn/emp/AIxintianxia/a423909.jspx",
+      "date": "2026-04-06",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "其他技术",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qt/",
+      "title": "如何构建更接近真实交通的自动驾驶仿真世界？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic720301.html",
+      "date": "2026-04-06",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "周刊丨半导体行业投融周动态（03.30—04.05）",
+      "url": "https://www.eeworld.com.cn/emp/AIxintianxia/a423911.jspx",
+      "date": "2026-04-06",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "Linux 为什么还要坚持使用宏内核？",
+      "url": "https://www.eeworld.com.cn/emp/liangxulinux/a424003.jspx",
+      "date": "2026-04-06",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "动力系统",
+      "category_url": "http://news.eeworld.com.cn/qcdz/qcdldz/",
+      "title": "HEV混动开战：丰田本田的“护城河”，要被中国车企填平了？",
+      "url": "https://www.eeworld.com.cn/qcdz/eic720305.html",
+      "date": "2026-04-06",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "被低估的先进封装巨头",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423931.jspx",
+      "date": "2026-04-06",
+      "score": -0.45,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR'26",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423967.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR'26",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423965.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "英伟达加速拥抱光芯片",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423932.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "禾多陨落：明星智驾公司的财务与内耗迷云",
+      "url": "https://www.eeworld.com.cn/emp/leiphone/a423958.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "巨头扫货EUV光刻机，投资大增300%",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423935.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "哈萨比斯传记里讲了好多八卦啊",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423963.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "台湾是如何称霸芯片的",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423937.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "印度芯片，又一里程碑",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423936.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423964.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "具身Scaling Law押对了！独角兽新品1小时学会新任务，重复1800次成功率99%",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423969.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "他想去月球上制造芯片",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423938.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "“汽车电子·2026年度金芯奖”网络投票通道正式开启！",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423934.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "OpenAI又曝出内讧了！IPO前夜高层大换血",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423966.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "AI创业，已经没有“出海”这个词了丨量子位沙龙",
+      "url": "https://www.eeworld.com.cn/emp/QbitAI/a423968.jspx",
+      "date": "2026-04-06",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": []
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "存储芯片，继续暴涨",
+      "url": "https://www.eeworld.com.cn/emp/Icbank/a423933.jspx",
+      "date": "2026-04-06",
+      "score": -1.7,
+      "matched_categories": [],
+      "matched_keywords": []
+    }
+  ],
+  "fetched_pages": [
+    {
+      "page": 1,
+      "url": "http://www.eeworld.com.cn/latestnews",
+      "item_count": 50,
+      "dates": [
+        "2026-04-06",
+        "2026-04-07"
+      ]
+    },
+    {
+      "page": 2,
+      "url": "http://www.eeworld.com.cn/latestnews/2",
+      "item_count": 50,
+      "dates": [
+        "2026-04-04",
+        "2026-04-05",
+        "2026-04-06",
+        "2026-04-07"
+      ]
+    },
+    {
+      "page": 3,
+      "url": "http://www.eeworld.com.cn/latestnews/3",
+      "item_count": 50,
+      "dates": [
+        "2026-04-02",
+        "2026-04-03",
+        "2026-04-04"
+      ]
+    }
+  ],
+  "updated_at": "2026-04-07T11:06:53.227704+00:00"
+}
