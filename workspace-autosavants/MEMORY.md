@@ -8,8 +8,9 @@
 - 用户明确要求：长期重点支持“文章与论文写作”。
 - 用户指定写作参考仓库：`Leey21/awesome-ai-research-writing`。
 - 用户要求：后续写文章时，默认优先使用已安装 Skills 与该仓库提示词集合执行。
-- 用户提供论文格式模板（.doc），已转存为：`templates/paper_template.docx`，后续论文排版默认参照此模板。
-- 已提取模板要点文本：`templates/paper_template_extracted.txt`（封面/摘要/关键词/标题层级/参考文献格式等）。
+- 用户已两次提供论文模板；当前默认模板为最新版本：`templates/paper_template.docx`（来源：`templates/paper_template_source_v2.docx`）。
+- 历史模板已备份：`templates/paper_template_prev_*.docx`。
+- 已提取当前模板要点文本：`templates/paper_template_extracted.txt`（另存快照：`templates/paper_template_extracted_v2.txt`）。
 - 已在工作区安装 OpenSkills 写作相关技能包（project-local）：
   - `zechenzhangAGI/AI-research-SKILLs`
   - `anthropics/skills`
