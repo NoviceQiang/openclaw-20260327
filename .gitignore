@@ -6,5 +6,7 @@
 !workspace-lexmechanic/**
 !workspace-tech-priest/
 !workspace-tech-priest/**
+!workspace-autosavants/
+!workspace-autosavants/**
 workspace/skills/nano-banana-pro/
 workspace/skills/news-aggregator/
