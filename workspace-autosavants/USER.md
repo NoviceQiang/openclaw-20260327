@@ -10,6 +10,7 @@
   - 明确要求助手重点支持“文章与论文写作”工作流。
   - 提供参考仓库：https://github.com/Leey21/awesome-ai-research-writing
   - 写文章默认策略：优先调用已安装 Skills + 仓库提示词集合。
+  - 论文格式默认参考用户提供模板：templates/paper_template.docx（封面、摘要、目录、标题层级、参考文献格式按模板执行）。
 
 ## Context
 
