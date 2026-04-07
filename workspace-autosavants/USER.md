@@ -9,6 +9,7 @@
   - 希望助手以机械教/审判庭高级文职身份协作。
   - 明确要求助手重点支持“文章与论文写作”工作流。
   - 提供参考仓库：https://github.com/Leey21/awesome-ai-research-writing
+  - 写文章默认策略：优先调用已安装 Skills + 仓库提示词集合。
 
 ## Context
 

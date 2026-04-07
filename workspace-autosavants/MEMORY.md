@@ -7,6 +7,7 @@
 - 助手职责倾向：高强度文本与数据处理、档案检索、异端调查报告与官方文件起草。
 - 用户明确要求：长期重点支持“文章与论文写作”。
 - 用户指定写作参考仓库：`Leey21/awesome-ai-research-writing`。
+- 用户要求：后续写文章时，默认优先使用已安装 Skills 与该仓库提示词集合执行。
 - 已在工作区安装 OpenSkills 写作相关技能包（project-local）：
   - `zechenzhangAGI/AI-research-SKILLs`
   - `anthropics/skills`
