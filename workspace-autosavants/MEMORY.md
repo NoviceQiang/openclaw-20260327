@@ -15,3 +15,8 @@
   - `zechenzhangAGI/AI-research-SKILLs`
   - `anthropics/skills`
   - `blader/humanizer`
+
+## Workflow Preferences
+- 用户要求：写文章时，每篇文章的所有修改版本必须汇总到同一目录统一管理。
+- 建议目录规范：`articles/{文章名}/versions/`（集中存放 `.docx` / `.md` 各版本）。
+- 用户要求：上述版本管理规则需要写入本地 memory 并长期执行。
