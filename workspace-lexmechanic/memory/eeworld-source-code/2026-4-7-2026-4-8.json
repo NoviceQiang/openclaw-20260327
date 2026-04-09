@@ -4,10 +4,10 @@
   "dates": [
     "2026-04-07"
   ],
-  "fetched_at": "2026-04-08T03:58:32.380246+00:00",
-  "max_pages": 4,
-  "profile": "C:\\Users\\Qiang\\.openclaw\\workspace-lexmechanic\\memory\\eeworld-reading-profile.json",
-  "total_items": 65,
+  "fetched_at": "2026-04-08T14:22:26.484845+00:00",
+  "max_pages": 30,
+  "profile": "memory/eeworld-reading-profile.json",
+  "total_items": 87,
   "ranked": [
     {
       "category": "网络通信",
@@ -25,7 +25,7 @@
         "DSP"
       ],
       "read": true,
-      "read_at": "2026-04-08T06:19:54.802338+00:00"
+      "read_at": "2026-04-08T14:26:22.269178+00:00"
     },
     {
       "category": "综合资讯",
@@ -40,7 +40,9 @@
       "matched_keywords": [
         "方案",
         "解决方案"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -54,7 +56,25 @@
       ],
       "matched_keywords": [
         "方案"
-      ]
+      ],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "【有奖直播】TI 工业自动化与机器人功能安全解决方案",
+      "url": "https://www.eeworld.com.cn/emp/EEWFLS/a424057.jspx",
+      "date": "2026-04-07",
+      "score": 30.95,
+      "matched_categories": [],
+      "matched_keywords": [
+        "方案",
+        "解决方案",
+        "功能安全"
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -68,7 +88,9 @@
         "方案",
         "解决方案",
         "功能安全"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -81,7 +103,9 @@
       "matched_keywords": [
         "方案",
         "解决方案"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "放大器",
@@ -94,7 +118,24 @@
       "matched_keywords": [
         "方案",
         "解决方案"
-      ]
+      ],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "DigiKey得捷应用探索站|模拟电子与储能解决方案",
+      "url": "https://www.eeworld.com.cn/emp/EEWFLS/a424061.jspx",
+      "date": "2026-04-07",
+      "score": 29.15,
+      "matched_categories": [],
+      "matched_keywords": [
+        "方案",
+        "解决方案"
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -106,7 +147,9 @@
       "matched_categories": [],
       "matched_keywords": [
         "方案"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -118,7 +161,9 @@
       "matched_categories": [],
       "matched_keywords": [
         "方案"
-      ]
+      ],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "汽车电子",
@@ -130,7 +175,9 @@
       "matched_categories": [
         "汽车电子"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "行业动态",
@@ -142,7 +189,9 @@
       "matched_categories": [
         "行业动态"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -154,7 +203,9 @@
       "matched_categories": [
         "机器人"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "行业动态",
@@ -166,7 +217,9 @@
       "matched_categories": [
         "行业动态"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -178,7 +231,9 @@
       "matched_categories": [
         "机器人"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -190,7 +245,9 @@
       "matched_categories": [
         "机器人"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "机器人",
@@ -202,7 +259,9 @@
       "matched_categories": [
         "机器人"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -214,7 +273,9 @@
       "matched_categories": [
         "综合资讯"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -226,7 +287,9 @@
       "matched_categories": [
         "综合资讯"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -238,7 +301,9 @@
       "matched_categories": [
         "综合资讯"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "综合资讯",
@@ -250,7 +315,9 @@
       "matched_categories": [
         "综合资讯"
       ],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -262,7 +329,69 @@
       "matched_categories": [],
       "matched_keywords": [
         "CPO"
-      ]
+      ],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "增强电机控制编码器应用的通信可靠性和性能",
+      "url": "https://www.eeworld.com.cn/emp/CEC/a424052.jspx",
+      "date": "2026-04-07",
+      "score": 0.7,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "ATE 测量卡怎么选？一文理清架构与设计取舍",
+      "url": "https://www.eeworld.com.cn/emp/TI/a424092.jspx",
+      "date": "2026-04-07",
+      "score": 0.7,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "技术干货丨依托瑞萨AFCI技术，驱动实时安全与创新",
+      "url": "https://www.eeworld.com.cn/emp/Renesas/a424090.jspx",
+      "date": "2026-04-07",
+      "score": 0.35,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "在边缘侧重新思考语音 AI：基于 Arm 架构的 DGX Spark 的实用离线流水线",
+      "url": "https://www.eeworld.com.cn/emp/Armshequ/a424048.jspx",
+      "date": "2026-04-07",
+      "score": 0.35,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "告别复杂架构，11kW矩阵式OBC如何实现系统级成本与空间等多重突破？",
+      "url": "https://www.eeworld.com.cn/emp/ON-Semiconductor/a424086.jspx",
+      "date": "2026-04-07",
+      "score": 0.35,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -272,7 +401,9 @@
       "date": "2026-04-07",
       "score": 0.35,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "市场动态",
@@ -282,7 +413,9 @@
       "date": "2026-04-07",
       "score": 0.35,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -292,7 +425,33 @@
       "date": "2026-04-07",
       "score": 0.35,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "飞桨黑客松第十期来了！@Arm 开发者，等你来挑战！",
+      "url": "https://www.eeworld.com.cn/emp/Armshequ/a424049.jspx",
+      "date": "2026-04-07",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "载誉前行！武汉芯源半导体CW32L012荣获中国IC设计成就奖之年度MCU",
+      "url": "https://www.eeworld.com.cn/emp/XSY/a424096.jspx",
+      "date": "2026-04-07",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "音响",
@@ -302,7 +461,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -312,7 +473,21 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "芯报丨英伟达携手Marvell冲AI-RAN 光宝、和硕等伙伴迎利多",
+      "url": "https://www.eeworld.com.cn/emp/AIxintianxia/a424045.jspx",
+      "date": "2026-04-07",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "车用传感器/MCU",
@@ -322,7 +497,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -332,7 +509,33 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "科创丨XREAL抢先递表，Rokid紧追：智能眼镜第一股争夺战打响",
+      "url": "https://www.eeworld.com.cn/emp/AIxintianxia/a424044.jspx",
+      "date": "2026-04-07",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "瑞萨RA MCU创意秀 | 基于瑞萨RA4M2的多通道数字示波器",
+      "url": "https://www.eeworld.com.cn/emp/CEC/a424053.jspx",
+      "date": "2026-04-07",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -342,7 +545,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -352,7 +557,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "RF技术",
@@ -362,7 +569,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -372,7 +581,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "动力系统",
@@ -382,7 +593,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "开发相关",
@@ -392,7 +605,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -402,7 +617,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "工控设备",
@@ -412,7 +629,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -422,7 +641,21 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "单季利润2610亿元！三星的“AI印钞机”，火力全开",
+      "url": "https://www.eeworld.com.cn/emp/XSY/a424095.jspx",
+      "date": "2026-04-07",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "动力系统",
@@ -432,7 +665,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -442,7 +677,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "光学传感器",
@@ -452,7 +689,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -462,7 +701,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -472,7 +713,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -482,7 +725,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -492,7 +737,21 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "三月刊 | Arm 生态近期技术创新盘点",
+      "url": "https://www.eeworld.com.cn/emp/Armshequ/a424050.jspx",
+      "date": "2026-04-07",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -502,7 +761,45 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "一文了解 Arm AGI CPU，开启 Arm 基础设施全新篇章",
+      "url": "https://www.eeworld.com.cn/emp/Armshequ/a424047.jspx",
+      "date": "2026-04-07",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "【ADI好板子任您挑】你晒单我买单2026第1期，DigiKey带您畅享好物！",
+      "url": "https://www.eeworld.com.cn/emp/EEWFLS/a424058.jspx",
+      "date": "2026-04-07",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "LTspice操作方法：定义电压源和电流源的分段线性函数",
+      "url": "https://www.eeworld.com.cn/emp/ADI/a424043.jspx",
+      "date": "2026-04-07",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -512,7 +809,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -522,7 +821,21 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "CITE2026重磅来袭！中电港邀您共赴行业盛会",
+      "url": "https://www.eeworld.com.cn/emp/CEC/a424051.jspx",
+      "date": "2026-04-07",
+      "score": 0.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -532,7 +845,9 @@
       "date": "2026-04-07",
       "score": 0.0,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -542,7 +857,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -552,7 +869,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -562,7 +881,21 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "宏景智驾的困境：「工程文化」至上，为何走不通商业路径？",
+      "url": "https://www.eeworld.com.cn/emp/leiphone/a424078.jspx",
+      "date": "2026-04-07",
+      "score": -0.8,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -572,7 +905,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -582,7 +917,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -592,7 +929,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -602,7 +941,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -612,7 +953,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -622,7 +965,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -632,7 +977,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -642,7 +989,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -652,7 +1001,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -662,7 +1013,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -672,7 +1025,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -682,7 +1037,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -692,7 +1049,9 @@
       "date": "2026-04-07",
       "score": -0.8,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "市场动态",
@@ -702,7 +1061,33 @@
       "date": "2026-04-07",
       "score": -0.9,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "【实战】ADI 边缘 AI 开发板 | Digikey 得捷 Follow me 第四季第 1 期报名中！",
+      "url": "https://www.eeworld.com.cn/emp/EEWFLS/a424060.jspx",
+      "date": "2026-04-07",
+      "score": -0.9,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "独家丨2026款乐道L90将搭载蔚来5nm自研芯片",
+      "url": "https://www.eeworld.com.cn/emp/leiphone/a424079.jspx",
+      "date": "2026-04-07",
+      "score": -1.7,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     },
     {
       "category": "电子头条",
@@ -712,7 +1097,21 @@
       "date": "2026-04-07",
       "score": -1.7,
       "matched_categories": [],
-      "matched_keywords": []
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
+    },
+    {
+      "category": "电子头条",
+      "category_url": "https://www.eeworld.com.cn/mp",
+      "title": "是德科技重磅新品发布会｜新一代无线测试利器VXT：开启 RF 与模拟 IQ 全链路测试 有奖直播报名中！",
+      "url": "https://www.eeworld.com.cn/emp/EEWFLS/a424059.jspx",
+      "date": "2026-04-07",
+      "score": -2.0,
+      "matched_categories": [],
+      "matched_keywords": [],
+      "read": false,
+      "read_at": null
     }
   ],
   "fetched_pages": [
@@ -721,7 +1120,6 @@
       "url": "http://www.eeworld.com.cn/latestnews",
       "item_count": 50,
       "dates": [
-        "2026-04-07",
         "2026-04-08"
       ]
     },
@@ -730,9 +1128,8 @@
       "url": "http://www.eeworld.com.cn/latestnews/2",
       "item_count": 50,
       "dates": [
-        "2026-04-05",
-        "2026-04-06",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     {
@@ -740,11 +1137,28 @@
       "url": "http://www.eeworld.com.cn/latestnews/3",
       "item_count": 50,
       "dates": [
-        "2026-04-03",
+        "2026-04-07"
+      ]
+    },
+    {
+      "page": 4,
+      "url": "http://www.eeworld.com.cn/latestnews/4",
+      "item_count": 50,
+      "dates": [
         "2026-04-04",
-        "2026-04-05"
+        "2026-04-05",
+        "2026-04-06",
+        "2026-04-07"
+      ]
+    },
+    {
+      "page": 5,
+      "url": "http://www.eeworld.com.cn/latestnews/5",
+      "item_count": 50,
+      "dates": [
+        "2026-04-03",
+        "2026-04-04"
       ]
     }
-  ],
-  "updated_at": "2026-04-08T06:19:54.802338+00:00"
+  ]
 }
