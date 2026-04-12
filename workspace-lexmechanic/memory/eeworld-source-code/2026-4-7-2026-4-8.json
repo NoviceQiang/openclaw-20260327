@@ -342,8 +342,8 @@
       "score": 0.7,
       "matched_categories": [],
       "matched_keywords": [],
-      "read": false,
-      "read_at": null
+      "read": true,
+      "read_at": "2026-04-10T15:07:42.200824+00:00"
     },
     {
       "category": "电子头条",
@@ -366,8 +366,8 @@
       "score": 0.35,
       "matched_categories": [],
       "matched_keywords": [],
-      "read": false,
-      "read_at": null
+      "read": true,
+      "read_at": "2026-04-10T16:15:59.328061+00:00"
     },
     {
       "category": "电子头条",
@@ -1161,5 +1161,5 @@
       ]
     }
   ],
-  "updated_at": "2026-04-09T10:11:57.111712+00:00"
+  "updated_at": "2026-04-10T16:15:59.328061+00:00"
 }
