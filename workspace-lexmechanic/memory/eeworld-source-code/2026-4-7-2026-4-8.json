@@ -119,8 +119,8 @@
         "方案",
         "解决方案"
       ],
-      "read": false,
-      "read_at": null
+      "read": true,
+      "read_at": "2026-04-09T14:42:13.397408+00:00"
     },
     {
       "category": "电子头条",
@@ -204,8 +204,8 @@
         "机器人"
       ],
       "matched_keywords": [],
-      "read": false,
-      "read_at": null
+      "read": true,
+      "read_at": "2026-04-09T15:09:10.544779+00:00"
     },
     {
       "category": "行业动态",
@@ -260,8 +260,8 @@
         "机器人"
       ],
       "matched_keywords": [],
-      "read": false,
-      "read_at": null
+      "read": true,
+      "read_at": "2026-04-09T15:16:14.021230+00:00"
     },
     {
       "category": "综合资讯",
@@ -274,8 +274,8 @@
         "综合资讯"
       ],
       "matched_keywords": [],
-      "read": false,
-      "read_at": null
+      "read": true,
+      "read_at": "2026-04-09T15:25:47.956003+00:00"
     },
     {
       "category": "综合资讯",
@@ -288,8 +288,8 @@
         "综合资讯"
       ],
       "matched_keywords": [],
-      "read": false,
-      "read_at": null
+      "read": true,
+      "read_at": "2026-04-09T15:25:47.956003+00:00"
     },
     {
       "category": "综合资讯",
@@ -302,8 +302,8 @@
         "综合资讯"
       ],
       "matched_keywords": [],
-      "read": false,
-      "read_at": null
+      "read": true,
+      "read_at": "2026-04-09T15:25:47.956003+00:00"
     },
     {
       "category": "综合资讯",
@@ -316,8 +316,8 @@
         "综合资讯"
       ],
       "matched_keywords": [],
-      "read": false,
-      "read_at": null
+      "read": true,
+      "read_at": "2026-04-09T15:55:22.531647+00:00"
     },
     {
       "category": "电子头条",
@@ -354,8 +354,8 @@
       "score": 0.7,
       "matched_categories": [],
       "matched_keywords": [],
-      "read": false,
-      "read_at": null
+      "read": true,
+      "read_at": "2026-04-10T01:04:00.924796+00:00"
     },
     {
       "category": "电子头条",

@@ -74,3 +74,27 @@ Keep content richness when useful, but compress visual layout and grouping in fu
 - **Notes**: Promoted to workspace memory and daily log.
 
 ---
+## [LRN-20260410-001] correction
+
+**Logged**: 2026-04-10T01:16:59Z
+**Priority**: high
+**Status**: pending
+**Area**: docs
+
+### Summary
+interest-save 的“本篇关注重点”自动细化误触发，导致将不相关的“六层测试项目与指标”插入 ATE 文章记录。
+
+### Details
+用户明确给出的关注重点只有 ATE 三类核心卡（V/I、DPS、PE）的职责与取舍。但落盘结果触发了自动“全链路细化”模板，写入了 Camera/LiDAR/IMU 等与文章不相关内容。根因是触发条件过宽：`FULL_CHAIN_HINT_TOKENS` 含“供电/执行”等泛词，且命中任一词即触发。
+
+### Suggested Action
+1. 收紧触发词：仅保留“全链路/测试项目与指标/感知层/传输层/决策与控制层/执行层/供电与热管理/功能安全与运维”等明确语义。
+2. 触发阈值调整为至少命中 2 个特征词。
+3. 对已写错条目立即原地修正后再反馈用户。
+
+### Metadata
+- Source: user_feedback
+- Related Files: skills/eeworld-reader/scripts/eeworld_feed.py, memory/interests/2026-04-第一周文章.md
+- Tags: correction, interest-save, false-positive, focus-points
+
+---

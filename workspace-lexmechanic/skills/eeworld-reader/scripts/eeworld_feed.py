@@ -72,13 +72,13 @@ FULL_CHAIN_HINT_TOKENS = [
     "整机链路",
     "全链路",
     "全链路测试",
-    "感知",
-    "高速总线",
-    "决策控制",
-    "执行",
-    "供电",
-    "热管理",
-    "安全诊断",
+    "测试项目与指标",
+    "感知层",
+    "传输层",
+    "决策与控制层",
+    "执行层",
+    "供电与热管理",
+    "功能安全与运维",
 ]
 
 
@@ -871,8 +871,10 @@ def _split_focus_points(raw: str) -> List[str]:
 
 
 def _should_expand_full_chain_focus(*, title: str, summary: str, focus_points: List[str], keywords: List[str]) -> bool:
-    hay = " ".join([title, summary, " ".join(focus_points), " ".join(keywords)]).lower()
-    return any(tok in hay for tok in FULL_CHAIN_HINT_TOKENS)
+    # 2026-04-10规则：取消“触发词自动细化”。
+    # 本篇关注重点仅按用户明确给出的关键点+原文补充落盘，
+    # 不再依据关键词命中自动插入固定模板。
+    return False
 
 
 def _render_full_chain_detail_lines() -> List[str]:
